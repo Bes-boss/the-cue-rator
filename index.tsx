@@ -311,7 +311,7 @@ function App() {
   const [mkrCommissionedDatabase, setMkrCommissionedDatabase] = useState('');
 
   useEffect(() => {
-    fetch('/Commissioned_Databases/MKR Composed_Database.txt')
+    fetch('Commissioned_Databases/MKR Composed_Database.txt')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
