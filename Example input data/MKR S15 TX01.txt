@@ -1,0 +1,794 @@
+SESSION NAME:	MKR S15 TX01.r
+SAMPLE RATE:	48000.000000
+BIT DEPTH:	24-bit
+SESSION START TIMECODE:	00:58:00:00
+TIMECODE FORMAT:	25 Frame
+# OF AUDIO TRACKS:	90
+# OF AUDIO CLIPS:	22766
+# OF AUDIO FILES:	8169
+
+
+T R A C K  L I S T I N G
+TRACK NAME:	MUSIC 1 (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-11.A2	   01:00:00:05	   01:00:19:22	   00:00:19:17	Unmuted
+1       	2       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-10.A1	   01:00:41:21	   01:00:51:03	   00:00:09:07	Unmuted
+1       	3       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.02_01-03.A1	   01:00:51:15	   01:00:56:12	   00:00:04:22	Unmuted
+1       	4       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.01_01-05.A1	   01:00:58:09	   01:01:01:04	   00:00:02:20	Unmuted
+1       	5       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.02_01-07.A1	   01:01:11:20	   01:01:14:19	   00:00:02:24	Unmuted
+1       	6       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.02_01-06.A1	   01:01:14:19	   01:01:16:22	   00:00:02:03	Unmuted
+1       	7       	UPM_KT195_46_Hit_Sink_Main_Track_Hirschmann_Hope_Mobley_Novack_Poe_Stephen_Stern_328951.wav.Copy.01.new.01_01-03.A1	   01:01:23:19	   01:01:26:00	   00:00:02:06	Unmuted
+1       	8       	UPM_SVN87_4_Requiem_Dies_Irae_Remixed_Vocal_Lead_Burrows_Hill_Mallender_Verdi_2059436.wav.new.01_01-04.A2	   01:01:36:02	   01:01:55:08	   00:00:19:06	Unmuted
+1       	9       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-08.A1	   01:02:11:20	   01:02:35:03	   00:00:23:08	Unmuted
+1       	10      	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.02_01-09.A1	   01:02:35:03	   01:02:45:10	   00:00:10:07	Unmuted
+1       	11      	Amy Shark - Beautiful Eyes .wav.new.01_01-03.A1	   01:03:53:10	   01:04:19:10	   00:00:26:00	Unmuted
+1       	12      	Kylie Minogue - Things We Do For Love - Extended Mix.wav.new.01_01-07.A1	   01:04:33:24	   01:05:04:23	   00:00:30:24	Unmuted
+1       	13      	XCD448_04_2 TAKIN HOLD_INSTRUMENTAL.WAV.new.03_01-05.A1	   01:05:18:12	   01:05:23:02	   00:00:04:15	Unmuted
+1       	14      	Sheppard - Good Time.wav.Copy.01.new.01_01-03.A1	   01:05:24:18	   01:05:38:19	   00:00:14:01	Unmuted
+1       	15      	KPM2263_01_3 STUCK ON YOU (D)_UNDERSCORE.WAV.new.01_01-06.A1	   01:05:39:10	   01:05:43:01	   00:00:03:16	Unmuted
+1       	16      	KPM2263_01_3 STUCK ON YOU (D)_UNDERSCORE.WAV.new.01_01-05.A1	   01:05:43:01	   01:05:56:08	   00:00:13:07	Unmuted
+1       	17      	KPM2263_01_3 STUCK ON YOU (D)_UNDERSCORE.WAV.new.02_01-03.A1	   01:05:56:08	   01:05:57:21	   00:00:01:13	Unmuted
+1       	18      	31 - Counting Down - J Vincent - HML277.wav.new.01_01-03.A1	   01:05:58:03	   01:06:10:04	   00:00:12:01	Unmuted
+1       	19      	MKRS12_NEUTRAL COOK_BAKED_1112_RC_LITE.wav.wav.new.01_01-03.A1	   01:06:44:03	   01:07:03:10	   00:00:19:07	Unmuted
+1       	20      	TRL0107_05 CALYPSO (A).wav.new.01_01-03.A1	   01:07:25:18	   01:07:34:14	   00:00:08:21	Unmuted
+1       	21      	01 - Lemme Show Ya - J Vincent - HML257.wav.new.01_01-03.A1	   01:07:36:08	   01:07:48:08	   00:00:12:00	Unmuted
+1       	22      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.01_01-05.A1	   01:08:13:20	   01:08:23:17	   00:00:09:22	Unmuted
+1       	23      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.01_01-04.A1	   01:08:23:17	   01:08:25:20	   00:00:02:03	Unmuted
+1       	24      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.02_01-03.A1	   01:08:27:24	   01:08:32:00	   00:00:04:01	Unmuted
+1       	25      	32 - A New Chapter - C Swift, L Davies - BKM013.wav.new.01_01-03.A1	   01:08:41:11	   01:08:45:03	   00:00:03:17	Unmuted
+1       	26      	32 - A New Chapter - C Swift, L Davies - BKM013.wav.new.02_01-05.A1	   01:09:04:02	   01:09:07:24	   00:00:03:22	Unmuted
+1       	27      	MKR11_POS COOKING_TEAM WORK_617_CT_FULL.wav.new.04-02.A1	   01:09:20:06	   01:09:23:04	   00:00:02:23	Muted
+1       	28      	07 - Boom Boom (Instrumental) - H Briasco - BLM165.wav.new.01_01-05.A1	   01:09:24:02	   01:09:40:21	   00:00:16:19	Unmuted
+1       	29      	07 - Boom Boom (Instrumental) - H Briasco - BLM165.wav.new.01_01-04.A1	   01:09:40:21	   01:09:42:02	   00:00:01:06	Unmuted
+1       	30      	MKR11_COOK_A_BREEZE_811_MS_FULL.wav.new.03-04.A1	   01:09:44:04	   01:09:52:05	   00:00:08:01	Unmuted
+1       	31      	MKR11_COOK_A_BREEZE_811_MS_FULL.wav.new.03-03.A1	   01:09:52:05	   01:10:08:08	   00:00:16:03	Unmuted
+1       	32      	29 - Think Carefully - A Yefymov - LVM166.wav.new.01_01-03.A1	   01:10:11:24	   01:10:28:17	   00:00:16:18	Unmuted
+1       	33      	12 - Summer Destiny - P Carr - BAM-BX101 (1).wav.new.01_01-03.A1	   01:12:43:19	   01:13:05:04	   00:00:21:10	Unmuted
+1       	34      	12 - Summer Destiny - P Carr - BAM-BX101 (1).wav.new.02_01-03.A1	   01:13:05:04	   01:13:20:05	   00:00:15:01	Unmuted
+1       	35      	MDE003_10_2 ROLLIN FT WIN CANT LOSE_INSTRUMENTAL.WAV.new.03_01-03.A1	   01:13:20:05	   01:13:21:18	   00:00:01:13	Unmuted
+1       	36      	02 - Ascending Waves - T Hewson - CRB081.wav.new.01-03.A1	   01:13:57:13	   01:14:23:00	   00:00:25:12	Unmuted
+1       	37      	64 - Clear Waters - J Hood - HML312.wav.new.01_01-03.A1	   01:14:30:09	   01:14:49:08	   00:00:18:24	Unmuted
+1       	38      	64 - Clear Waters - J Hood - HML312.wav.new.03_01-04.A1	   01:14:59:12	   01:15:03:03	   00:00:03:16	Unmuted
+1       	39      	ATN510_01_11 LIVE LOUDER_NO LEAD VOCALS.WAV.new.01_01-03.A1	   01:15:21:16	   01:15:40:03	   00:00:18:12	Unmuted
+1       	40      	10 - Changing Route - M Kouppa - MSU009.wav.new.01_01-03.A1	   01:15:57:01	   01:16:07:14	   00:00:10:13	Unmuted
+1       	41      	Katy Perry - Teenage Dream.wav.new.01_01-04.A1	   01:16:21:24	   01:16:29:24	   00:00:08:00	Unmuted
+1       	42      	01 - Feel Good - M Lena, F Prest - BAM-AS033.wav.new.01_01-03.A1	   01:16:42:04	   01:16:45:00	   00:00:02:21	Unmuted
+1       	43      	07 - Mass Production - J Goldbridge - MNM087.wav.new.01_01-07.A1	   01:17:21:05	   01:17:46:21	   00:00:25:16	Unmuted
+1       	44      	01 - Ultimate Rival - P Nickalls - CRB112.wav.new.02_01-08.A1	   01:18:02:06	   01:18:31:04	   00:00:28:23	Unmuted
+1       	45      	01 - Ultimate Rival - P Nickalls - CRB112.wav.new.02_01-07.A1	   01:18:31:19	   01:18:35:08	   00:00:03:14	Unmuted
+1       	46      	19 - Both Sides Scheme - S Azbel - BXMT029.wav.new.01_01-05.A1	   01:18:45:20	   01:18:53:12	   00:00:07:17	Unmuted
+1       	47      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_01-07.A1	   01:19:13:17	   01:19:15:22	   00:00:02:05	Unmuted
+1       	48      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_01-11.A1	   01:19:15:22	   01:19:30:06	   00:00:14:09	Unmuted
+1       	49      	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.new.01_01-06.A1	   01:19:31:22	   01:19:36:21	   00:00:04:24	Unmuted
+1       	50      	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.new.01_01-07.A1	   01:19:45:24	   01:19:54:04	   00:00:08:05	Unmuted
+1       	51      	Imagine Dragons - Believer (Instrumental).wav.new.01_01-03.A1	   01:20:00:20	   01:20:25:14	   00:00:24:19	Unmuted
+1       	52      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.02_01-03.A1	   01:20:34:13	   01:20:42:13	   00:00:08:00	Unmuted
+1       	53      	KPM2151_15 DECISION POINT (A).WAV.new.02_01-03.A1	   01:21:04:02	   01:21:07:09	   00:00:03:07	Unmuted
+1       	54      	Dua Lipa - 01 - Don_t Start Now [200062283].wav.new.03_01-05.A1	   01:21:08:00	   01:21:11:16	   00:00:03:16	Unmuted
+1       	55      	Dua Lipa - Dont-Start-Now-Instrumental.wav.new.01_01-03.A1	   01:21:11:16	   01:21:16:12	   00:00:04:21	Unmuted
+1       	56      	Dua Lipa - Dont-Start-Now-Instrumental.wav.new.02_01-04.A1	   01:21:16:12	   01:21:28:03	   00:00:11:16	Unmuted
+1       	57      	Dua Lipa - 01 - Don_t Start Now [200062283].wav.new.04_01-05.A1	   01:21:28:03	   01:21:30:20	   00:00:02:17	Unmuted
+1       	58      	100 - Laugh Goodbye (Inst) - S Ruchelman, S Tipton Sims, S Grace - FA162.wav.new.02_01-06.A1	   01:21:49:12	   01:21:56:17	   00:00:07:05	Unmuted
+1       	59      	100 - Laugh Goodbye (Inst) - S Ruchelman, S Tipton Sims, S Grace - FA162.wav.new.02_01-07.A1	   01:21:56:17	   01:22:03:22	   00:00:07:05	Unmuted
+1       	60      	100 - Laugh Goodbye (Inst) - S Ruchelman, S Tipton Sims, S Grace - FA162.wav.new.02_01-05.A1	   01:22:03:22	   01:22:09:05	   00:00:05:08	Unmuted
+1       	61      	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.01_01-05.A1	   01:22:16:19	   01:22:23:22	   00:00:07:03	Unmuted
+1       	62      	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.02_01-03.A1	   01:22:45:19	   01:22:48:04	   00:00:02:10	Unmuted
+1       	63      	19 - The Antwren - W Hunt - THH091.wav.new.01_01-06.A1	   01:23:14:08	   01:23:39:02	   00:00:24:19	Unmuted
+1       	64      	19 - The Antwren - W Hunt - THH091.wav.new.01_01-08.A1	   01:23:39:02	   01:23:43:15	   00:00:04:13	Unmuted
+1       	65      	01 - Hard At Work - J Gray, F Moenks - DBX024.wav.new.01_01-06.A1	   01:23:49:12	   01:23:52:03	   00:00:02:16	Unmuted
+1       	66      	01 - Hard At Work - J Gray, F Moenks - DBX024.wav.new.01_01-05.A1	   01:23:52:03	   01:23:58:24	   00:00:06:21	Unmuted
+1       	67      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-10.A1	   01:24:20:10	   01:24:30:02	   00:00:09:17	Unmuted
+1       	68      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-13.A1	   01:24:30:02	   01:24:34:09	   00:00:04:07	Unmuted
+1       	69      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-15.A1	   01:24:47:16	   01:24:54:12	   00:00:06:21	Unmuted
+1       	70      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-16.A1	   01:24:55:11	   01:25:09:16	   00:00:14:05	Unmuted
+1       	71      	28 - City Light Stomp (No Vox) - B Moon - FFM029.wav.new.01_01-07.A1	   01:25:13:24	   01:25:15:19	   00:00:01:20	Unmuted
+1       	72      	28 - City Light Stomp (No Vox) - B Moon - FFM029.wav.new.01_01-06.A1	   01:25:15:19	   01:25:23:14	   00:00:07:20	Unmuted
+1       	73      	84 - Infinite Love - D Chappell - BKM018.wav.new.01_01-07.A1	   01:25:23:14	   01:25:27:10	   00:00:03:21	Unmuted
+1       	74      	84 - Infinite Love - D Chappell - BKM018.wav.new.01_01-05.A1	   01:25:27:10	   01:25:29:05	   00:00:01:20	Unmuted
+1       	75      	16 - Gusesha - K Diaz - THH123.wav.new.02_01-04.A1	   01:25:31:18	   01:25:46:00	   00:00:14:07	Unmuted
+1       	76      	CASEY BARNES - We're Good Together.wav.Copy.01.new.01_01-03.A1	   01:26:07:06	   01:26:31:01	   00:00:23:20	Unmuted
+1       	77      	17 - Into The Sunset - R Crispin, L Davies - BKM002.wav.new.01_01-03.A1	   01:26:36:07	   01:27:02:01	   00:00:25:19	Unmuted
+1       	78      	Sabrina Carpenter - 1 - Espresso (CLEAN).wav.new.01_01-05.A1	   01:27:03:09	   01:27:33:09	   00:00:30:00	Unmuted
+1       	79      	BMGPM_2FM062_017_Down_To_Business_underscore__Farmer.wav.new.01_01-03.A1	   01:27:41:05	   01:27:44:19	   00:00:03:14	Unmuted
+1       	80      	BMGPM_2FM062_017_Down_To_Business_underscore__Farmer.wav.new.02_01-04.A1	   01:27:44:19	   01:27:51:16	   00:00:06:22	Unmuted
+1       	81      	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_01-05.A1	   01:27:54:03	   01:28:22:17	   00:00:28:14	Unmuted
+1       	82      	04 - Confidential Kitchen - B Howells - NLM118.wav.new.01_01-03.A1	   01:29:02:10	   01:29:16:11	   00:00:14:01	Unmuted
+1       	83      	04 - Colour Spectrum - C White - NLM213.wav.new.01_01-03.A1	   01:29:24:23	   01:29:37:14	   00:00:12:16	Unmuted
+1       	84      	04 - Colour Spectrum - C White - NLM213.wav.new.03_01-03.A1	   01:29:46:12	   01:29:49:14	   00:00:03:01	Unmuted
+1       	85      	81 - Split Second - T Gire - BXM639.wav.new.04_01-03.A1	   01:29:50:19	   01:29:57:22	   00:00:07:03	Unmuted
+1       	86      	81 - Split Second - T Gire - BXM639.wav.new.06_01-03.A1	   01:30:01:21	   01:30:06:20	   00:00:04:24	Unmuted
+1       	87      	MKRS12_NEUTRAL COOK_CREATING_317_BR_FULL.wav.wav.new.01_01-04.A1	   01:30:13:01	   01:30:18:06	   00:00:05:05	Unmuted
+1       	88      	MKRS12_NEUTRAL COOK_CREATING_317_BR_LITE.wav.wav.new.01_01-03.A1	   01:30:25:09	   01:30:34:05	   00:00:08:21	Unmuted
+1       	89      	MKRS12_COOK_STEP_UP_YOUR_GAME_008_AA_FULL.wav.wav.new.01_01-03.A1	   01:30:44:09	   01:31:03:07	   00:00:18:23	Unmuted
+1       	90      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.03_01-03.A1	   01:31:56:03	   01:31:58:08	   00:00:02:05	Unmuted
+1       	91      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.01_01-06.A1	   01:32:08:07	   01:32:20:07	   00:00:12:00	Unmuted
+1       	92      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.03_01-03.A1	   01:32:31:19	   01:32:37:21	   00:00:06:02	Unmuted
+1       	93      	53 - Distorted Truth (Underscore, No Piano Melody) - S Patterson - ALSO008.wav.new.02_01-03.A1	   01:32:49:08	   01:33:02:10	   00:00:13:02	Unmuted
+1       	94      	Tiësto & Tears For Fears & NIIKO X SWAE & GUDFELLA - Rule The World (Everybody).wav.new.02_01-07.A1	   01:33:02:10	   01:33:04:09	   00:00:01:24	Unmuted
+1       	95      	Tiësto & Tears For Fears & NIIKO X SWAE & GUDFELLA - Rule The World (Everybody).wav.new.03_01-03.A1	   01:33:04:09	   01:33:08:02	   00:00:03:18	Unmuted
+1       	96      	Tiësto & Tears For Fears & NIIKO X SWAE & GUDFELLA - Rule The World (Everybody).wav.new.01_01-03.A1	   01:33:08:02	   01:33:11:01	   00:00:02:24	Unmuted
+1       	97      	BMGPM_SC232_006_D.U.M.B._inst__Kidonis_Zopke.wav.new.01_01-03.A1	   01:33:35:13	   01:33:39:13	   00:00:04:00	Unmuted
+1       	98      	BMGPM_SC232_006_D.U.M.B._inst__Kidonis_Zopke.wav.new.02_01-03.A1	   01:33:39:13	   01:33:41:14	   00:00:02:01	Unmuted
+1       	99      	BMGPM_SC232_006_D.U.M.B._inst__Kidonis_Zopke.wav.new.03_01-04.A1	   01:33:41:14	   01:33:55:00	   00:00:13:11	Unmuted
+1       	100     	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.04_01-03.A2	   01:34:21:05	   01:34:22:08	   00:00:01:03	Unmuted
+1       	101     	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.02_01-03.A1	   01:34:33:04	   01:34:38:11	   00:00:05:07	Unmuted
+1       	102     	02 - Building Tension (Underscore) - P Ruske - DBX003.wav.new.03_01-03.A1	   01:34:39:08	   01:34:44:23	   00:00:05:15	Unmuted
+1       	103     	01 - Beds Of Tension - O Spink, C White - CRB067.wav.new.01_01-04.A1	   01:34:55:04	   01:35:03:11	   00:00:08:07	Unmuted
+1       	104     	01 - Beds Of Tension - O Spink, C White - CRB067.wav.new.01_01-05.A1	   01:35:03:11	   01:35:07:06	   00:00:03:20	Unmuted
+1       	105     	34 - Beds Of Tension B (Underscore) - O Spink, C White - CRB067.wav.new.02_01-03.A1	   01:35:14:23	   01:35:22:03	   00:00:07:05	Unmuted
+1       	106     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-17.A1	   01:35:42:05	   01:35:56:14	   00:00:14:09	Unmuted
+1       	107     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-13.A1	   01:36:00:14	   01:36:06:16	   00:00:06:02	Unmuted
+1       	108     	17 - Holding Out - D Norlo, M Wells - DBX002.wav.Copy.01.new.01_01-03.A1	   01:36:18:20	   01:37:03:13	   00:00:44:18	Unmuted
+1       	109     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.01_01-04.A1	   01:37:07:23	   01:37:15:15	   00:00:07:17	Unmuted
+1       	110     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.01_01-05.A1	   01:37:24:12	   01:37:46:20	   00:00:22:08	Unmuted
+1       	111     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.02_01-05.A1	   01:37:54:19	   01:38:07:11	   00:00:12:17	Unmuted
+1       	112     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.02_01-06.A1	   01:38:11:13	   01:38:13:06	   00:00:01:18	Unmuted
+1       	113     	BF_403_TK001_TOUGH_COMPETITION_James_Brown_Beats_Fresh_Music.mp3.new.03_01-03.A1	   01:38:24:12	   01:38:42:05	   00:00:17:18	Unmuted
+1       	114     	32 - Counting With Caution B (Underscore) - R Dutnall - CRB060.wav.new.01_01-03.A1	   01:39:28:05	   01:39:52:24	   00:00:24:19	Unmuted
+1       	115     	05 - Ticking Tension - C White - CRB060.wav.new.01_01-03.A1	   01:39:56:15	   01:40:12:18	   00:00:16:03	Unmuted
+1       	116     	05 - Ticking Tension - C White - CRB060.wav.new.02_01-03.A1	   01:40:12:18	   01:40:19:03	   00:00:06:10	Unmuted
+1       	117     	22 - Admission (Alternative) - R Chorzelski - RSM440.wav.new.01_01-05.A1	   01:40:22:23	   01:40:52:22	   00:00:29:24	Unmuted
+1       	118     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_KEYS.wav.wav.new.01-03.A1	   01:40:57:04	   01:41:05:07	   00:00:08:03	Unmuted
+1       	119     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_KEYS.wav.wav.new.01-04.A1	   01:41:19:01	   01:41:21:01	   00:00:02:00	Unmuted
+1       	120     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-11.A1	   01:41:28:06	   01:41:41:13	   00:00:13:07	Unmuted
+1       	121     	XRC033_06 ALL IN A DAYS WORK.WAV.new.01_01-03.A1	   01:42:07:19	   01:42:22:20	   00:00:15:01	Unmuted
+1       	122     	MKRS12_LITE-TENSION_BACK TO WORK_324_BR_FULL.wav.wav.new.01_01-04.A1	   01:42:26:19	   01:43:03:20	   00:00:37:01	Unmuted
+1       	123     	MKRS12_COOKING JEOPARDY_HOT KITCHEN_1103v2_RC_FULL.wav.wav.new.01-02.A1	   01:43:35:09	   01:44:06:11	   00:00:31:02	Unmuted
+1       	124     	02 - Giving Nothing Away - D Phillipson - ALSO009.wav.new.01_01-03.A1	   01:44:09:19	   01:44:13:24	   00:00:04:05	Unmuted
+1       	125     	02 - Giving Nothing Away - D Phillipson - ALSO009.wav.new.02_01-03.A1	   01:44:13:24	   01:44:25:14	   00:00:11:15	Unmuted
+1       	126     	02 - Giving Nothing Away - D Phillipson - ALSO009.wav.new.03_01-03.A1	   01:44:25:14	   01:44:30:12	   00:00:04:23	Unmuted
+1       	127     	MKR11_DRAMA_801_MS_FULL.wav.new.03_01-04.A1	   01:44:48:05	   01:44:56:22	   00:00:08:17	Unmuted
+1       	128     	MKR11_DRAMA_801_MS_FULL.wav.new.03_01-05.A1	   01:44:56:22	   01:45:24:06	   00:00:27:09	Unmuted
+1       	129     	MKRS12_TENSION_UNRAVELLING_v2_215_DH_FULL.wav.wav.new.02_01-04.A1	   01:45:39:00	   01:45:49:14	   00:00:10:14	Unmuted
+1       	130     	MKRS12_POS COOKING_PERFECT TIMING_604_CT_FULL.wav.wav.new.02-02.A1	   01:46:10:07	   01:46:18:08	   00:00:08:01	Unmuted
+1       	131     	DED0188_01 TENSION AND TASKING STRINGS (A).WAV.new.01_01-06.A1	   01:46:30:23	   01:47:34:06	   00:01:03:08	Unmuted
+1       	132     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-19.A1	   01:47:36:10	   01:47:56:22	   00:00:20:12	Unmuted
+1       	133     	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.01_02-04.A1	   01:49:09:03	   01:49:39:04	   00:00:30:01	Unmuted
+1       	134     	32 - A Tense Situation (Underscore) - P Ruske - DBX003.wav.Copy.01.new.01_01-03.A1	   01:49:39:09	   01:49:50:07	   00:00:10:23	Unmuted
+1       	135     	TRL0184_09_2 ONE EYE OPEN_INSTRUMENTAL.WAV.new.02_01-09.A1	   01:50:01:24	   01:50:23:07	   00:00:21:08	Unmuted
+1       	136     	TRL0184_09_2 ONE EYE OPEN_INSTRUMENTAL.WAV.new.02_01-10.A1	   01:50:24:12	   01:50:43:11	   00:00:18:24	Unmuted
+1       	137     	MKRS12_COOK_SASSYCHEFS_703v2_AS_FULL.wav.wav.new.02_01-05.A1	   01:50:55:13	   01:51:12:08	   00:00:16:20	Unmuted
+1       	138     	UPM_FRX38_7_Outrunning_the_Odds_Instrumental_Yates_1427287.wav.new.01_01-07.A1	   01:52:10:12	   01:52:11:10	   00:00:00:23	Unmuted
+1       	139     	UPM_FRX38_7_Outrunning_the_Odds_Instrumental_Yates_1427287.wav.new.01_01-06.A1	   01:52:11:10	   01:52:33:06	   00:00:21:21	Unmuted
+1       	140     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-15.A1	   01:52:55:01	   01:52:55:11	   00:00:00:10	Unmuted
+1       	141     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-11.A1	   01:52:55:11	   01:53:10:00	   00:00:14:14	Unmuted
+1       	142     	10 - Conserve - R Chorzelski - RSM440.wav.new.03_01-07.A1	   01:53:10:11	   01:53:18:18	   00:00:08:07	Unmuted
+1       	143     	01 - Building Tension - P Ruske - DBX003.wav.Copy.01.new.01_01-03.A1	   01:54:01:18	   01:54:32:15	   00:00:30:22	Unmuted
+1       	144     	21 - Dominion - M Noguer - BXMT023.wav.new.01_01-04.A1	   01:54:34:02	   01:54:37:17	   00:00:03:15	Unmuted
+1       	145     	21 - Dominion - M Noguer - BXMT023.wav.new.01_01-05.A1	   01:54:37:17	   01:54:47:19	   00:00:10:02	Unmuted
+1       	146     	21 - Dominion - M Noguer - BXMT023.wav.new.02_01-05.A1	   01:55:05:06	   01:55:09:10	   00:00:04:04	Unmuted
+1       	147     	TRL0195_04 MISSION DAY.WAV.new.01-03.A1	   01:55:11:10	   01:55:25:24	   00:00:14:14	Unmuted
+1       	148     	05 - Game Show Showdown - A Deeping - CRB105.wav.new.01-04.A1	   01:55:52:21	   01:55:58:03	   00:00:05:07	Unmuted
+1       	149     	WESTONE_009_FEEL_THE_TENSION_(A)_ZAC_JORDAN_(PRS)_TSH259_The_Scoring_House.wav.new.01_01-03.A1	   01:56:03:22	   01:56:29:00	   00:00:25:03	Unmuted
+1       	150     	11 - Don't Get Caught - M Pes - ALSO058.wav.new.02-02.A1	   01:56:51:08	   01:56:55:12	   00:00:04:04	Unmuted
+1       	151     	MKRS12_NEUTRAL_SIMPLY_SUBTLE_010_AA_FULL.wav.wav.new.01_01-03.A1	   01:56:56:11	   01:57:39:13	   00:00:43:02	Unmuted
+1       	152     	10 - On The Brink - R Chorzelski - RSM533.mp3.new.01-04.A1	   01:57:44:19	   01:58:09:08	   00:00:24:14	Unmuted
+1       	153     	WESTONE_001_STITCH_IN_TIME_(A)_MATT_NORMAN_(PRS)_WOM659_West_One_Music_Limited.wav.new.04_01-03.A1	   01:58:33:20	   01:58:39:23	   00:00:06:03	Unmuted
+1       	154     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.02_01-03.A1	   01:59:22:10	   01:59:33:06	   00:00:10:21	Unmuted
+1       	155     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_FULL.wav.wav.new.01_01-07.A1	   01:59:47:06	   02:00:52:23	   00:01:05:17	Unmuted
+1       	156     	UPM_WAX23_135_Rising_Through_Stars_Instrumental_Barry_Laurel_Street_Gagel_1602830.wav.new.02_01-03.A1	   02:01:08:20	   02:01:22:08	   00:00:13:13	Unmuted
+1       	157     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_FX.wav.wav.new.01_01-03	   02:01:54:21	   02:01:59:04	   00:00:04:08	Unmuted
+1       	158     	XRC111_05 THE FULL STOP.WAV.new.01_01-07.A1	   02:02:01:22	   02:02:45:20	   00:00:43:23	Unmuted
+1       	159     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-16.A1	   02:02:56:08	   02:03:35:06	   00:00:38:23	Unmuted
+1       	160     	MKRS12_LIGHTTENSION_TASTETEST_507_TR_FULL.wav.wav.new.01_01-04.A1	   02:03:58:06	   02:04:19:11	   00:00:21:05	Unmuted
+1       	161     	06 - Cautiously Optimistic - T Hempton - ALSO047.wav.new.01_01-07.A1	   02:04:48:02	   02:05:04:10	   00:00:16:08	Unmuted
+1       	162     	MKRS12_POSITIVE_GOOD TIMES COMING_903_RL_FULLMIX.wav.wav.new.01_01-03.A1	   02:05:09:23	   02:05:27:22	   00:00:17:24	Unmuted
+1       	163     	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.Copy.01.new.02_01-03.A1	   02:06:09:19	   02:06:18:15	   00:00:08:21	Unmuted
+1       	164     	07 - Excited Nervousness - S Patterson - ALL125.wav.new.02-02.A1	   02:06:24:23	   02:06:28:11	   00:00:03:13	Unmuted
+1       	165     	MKRS12_COOKING_COME_TO_MY_KITCHEN_v2_307_BR_FULL.wav.wav.new.03_01-07.A1	   02:06:58:09	   02:07:01:22	   00:00:03:13	Unmuted
+1       	166     	MKRS12_COOKING_COME_TO_MY_KITCHEN_v2_307_BR_FULL.wav.wav.new.03_01-05.A1	   02:07:01:22	   02:07:15:19	   00:00:13:22	Unmuted
+1       	167     	MKRS12_POSITIVE_REFLECT_JOY_005_v4_AA_FULL.wav.wav.new.02_01-03.A1	   02:07:34:15	   02:07:39:19	   00:00:05:04	Unmuted
+1       	168     	02 - Answer The Question - K Macken - ALSO042.wav.new.01_01-03.A1	   02:07:41:04	   02:08:10:24	   00:00:29:20	Unmuted
+1       	169     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-17.A1	   02:08:49:03	   02:09:02:18	   00:00:13:15	Unmuted
+1       	170     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-19.A1	   02:09:02:18	   02:09:05:19	   00:00:03:01	Unmuted
+1       	171     	09 - On A Knife Edge - R Keyworth - RSM440.wav.new.01_01-05.A1	   02:09:07:19	   02:09:47:00	   00:00:39:06	Unmuted
+1       	172     	09 - Glimmers Of Light - B Howells - NLM169.wav.new.02_01-03.A1	   02:11:04:02	   02:11:23:24	   00:00:19:22	Unmuted
+1       	173     	23 - Judgement Is Coming - A Degooi, J Bailey - DBX002.wav.new.01_01-03.A1	   02:11:23:24	   02:11:38:02	   00:00:14:03	Unmuted
+1       	174     	XRC073_07 EXPLICATE MILE.WAV.new.01-04.A1	   02:12:18:24	   02:13:03:09	   00:00:44:10	Unmuted
+1       	175     	01 - Blow By Blow - B Sailer, M Wells - DBX001.wav.new.01_01-05.A1	   02:13:40:14	   02:14:06:13	   00:00:25:24	Unmuted
+1       	176     	07 - Holding Out Hope - P Faddoul - ALSO054.wav.new.02_01-05.A1	   02:14:14:04	   02:14:18:24	   00:00:04:20	Unmuted
+1       	177     	MKRS12_NEG TO POS_TASTEBUDS CHANGE_302_BR_FULL.wav.wav.new.01_01-05.A1	   02:14:29:17	   02:14:43:16	   00:00:13:24	Unmuted
+1       	178     	01 - Building Tension - P Ruske - DBX003.wav.new.02_01-03.A1	   02:15:13:18	   02:15:28:07	   00:00:14:14	Unmuted
+1       	179     	17 - Black Hat - J Ioanna - BBX292.wav.new.01_01-04.A1	   02:15:37:19	   02:15:46:08	   00:00:08:14	Unmuted
+1       	180     	MKRS12_NEUTRAL TO POS_THANKYOU_316_BR_FULL.wav.wav.new.01_01-11.A1	   02:16:02:24	   02:16:07:22	   00:00:04:22	Unmuted
+1       	181     	MKRS12_NEUTRAL TO POS_THANKYOU_316_BR_OnlyPNO.wav.wav.new.02_01-03.A1	   02:16:07:22	   02:16:22:09	   00:00:14:12	Unmuted
+1       	182     	06 - Escape Room Challenge - T Hewson - CRB105.wav.new.01_01-03.A1	   02:16:38:04	   02:16:58:04	   00:00:20:00	Unmuted
+1       	183     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_FULL.wav.wav.new.01_01-05.A1	   02:17:18:10	   02:17:27:23	   00:00:09:13	Unmuted
+1       	184     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_FULL.wav.wav.new.01_01-06.A1	   02:17:42:06	   02:18:13:07	   00:00:31:00	Unmuted
+1       	185     	WESTONE_059_GOT_ME_FEELIN'_(B)_ISAAC_ASHBY_(PRS)_WOM661_West_One_Music_Limited.wav.new.01_01-04.A1	   02:18:29:23	   02:18:30:18	   00:00:00:20	Unmuted
+1       	186     	WESTONE_059_GOT_ME_FEELIN'_(B)_ISAAC_ASHBY_(PRS)_WOM661_West_One_Music_Limited.wav.new.01_01-05.A1	   02:18:30:18	   02:18:51:23	   00:00:21:05	Unmuted
+1       	187     	WESTONE_007_ALL_AROUND_US_(A)_JACK_MONROE_(PRS)_WOM619_West_One_Music_Limited.wav.new.01_01-08.A1	   02:19:03:01	   02:19:14:08	   00:00:11:07	Unmuted
+1       	188     	WESTONE_007_ALL_AROUND_US_(A)_JACK_MONROE_(PRS)_WOM619_West_One_Music_Limited.wav.new.01_01-07.A1	   02:19:14:08	   02:19:18:21	   00:00:04:13	Unmuted
+1       	189     	UPM_HYPR50_42_Into_The_Unknown_Instrumental_Davis_Odnoralov_1937199.wav.new.01_01-03.A1	   02:19:24:21	   02:19:49:11	   00:00:24:15	Unmuted
+
+
+2       	1       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-14.A1	   01:00:00:05	   01:00:19:22	   00:00:19:17	Unmuted
+2       	2       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-12.A2	   01:00:41:21	   01:00:51:03	   00:00:09:07	Unmuted
+2       	3       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.02_01-03.A2	   01:00:51:15	   01:00:56:12	   00:00:04:22	Unmuted
+2       	4       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.01_01-04.A2	   01:00:58:09	   01:01:01:04	   00:00:02:20	Unmuted
+2       	5       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.02_01-05.A2	   01:01:11:20	   01:01:14:19	   00:00:02:24	Unmuted
+2       	6       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.02_01-06.A2	   01:01:14:19	   01:01:16:22	   00:00:02:03	Unmuted
+2       	7       	UPM_KT195_46_Hit_Sink_Main_Track_Hirschmann_Hope_Mobley_Novack_Poe_Stephen_Stern_328951.wav.Copy.01.new.01_01-03.A2	   01:01:23:19	   01:01:26:00	   00:00:02:06	Unmuted
+2       	8       	UPM_SVN87_4_Requiem_Dies_Irae_Remixed_Vocal_Lead_Burrows_Hill_Mallender_Verdi_2059436.wav.new.01_01-05.A1	   01:01:36:02	   01:01:55:08	   00:00:19:06	Unmuted
+2       	9       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-12.A2	   01:02:11:20	   01:02:35:03	   00:00:23:08	Unmuted
+2       	10      	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.02_01-08.A2	   01:02:35:03	   01:02:45:10	   00:00:10:07	Unmuted
+2       	11      	Amy Shark - Beautiful Eyes .wav.new.01_01-03.A2	   01:03:53:10	   01:04:19:10	   00:00:26:00	Unmuted
+2       	12      	Kylie Minogue - Things We Do For Love - Extended Mix.wav.new.01_01-06.A2	   01:04:33:24	   01:05:04:23	   00:00:30:24	Unmuted
+2       	13      	XCD448_04_2 TAKIN HOLD_INSTRUMENTAL.WAV.new.03_01-05.A2	   01:05:18:12	   01:05:23:02	   00:00:04:15	Unmuted
+2       	14      	Sheppard - Good Time.wav.Copy.01.new.01_01-03.A2	   01:05:24:18	   01:05:38:19	   00:00:14:01	Unmuted
+2       	15      	KPM2263_01_3 STUCK ON YOU (D)_UNDERSCORE.WAV.new.01_01-06.A2	   01:05:39:10	   01:05:43:01	   00:00:03:16	Unmuted
+2       	16      	KPM2263_01_3 STUCK ON YOU (D)_UNDERSCORE.WAV.new.01_01-07.A2	   01:05:43:01	   01:05:56:08	   00:00:13:07	Unmuted
+2       	17      	KPM2263_01_3 STUCK ON YOU (D)_UNDERSCORE.WAV.new.02_01-03.A2	   01:05:56:08	   01:05:57:21	   00:00:01:13	Unmuted
+2       	18      	31 - Counting Down - J Vincent - HML277.wav.new.01_01-03.A2	   01:05:58:03	   01:06:10:04	   00:00:12:01	Unmuted
+2       	19      	MKRS12_NEUTRAL COOK_BAKED_1112_RC_LITE.wav.wav.new.01_01-03.A2	   01:06:44:03	   01:07:03:10	   00:00:19:07	Unmuted
+2       	20      	TRL0107_05 CALYPSO (A).wav.new.01_01-03.A2	   01:07:25:18	   01:07:34:14	   00:00:08:21	Unmuted
+2       	21      	01 - Lemme Show Ya - J Vincent - HML257.wav.new.01_01-03.A2	   01:07:36:08	   01:07:48:08	   00:00:12:00	Unmuted
+2       	22      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.01_01-05.A2	   01:08:13:20	   01:08:23:17	   00:00:09:22	Unmuted
+2       	23      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.01_01-04.A2	   01:08:23:17	   01:08:25:20	   00:00:02:03	Unmuted
+2       	24      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.02_01-03.A2	   01:08:27:24	   01:08:32:00	   00:00:04:01	Unmuted
+2       	25      	32 - A New Chapter - C Swift, L Davies - BKM013.wav.new.01_01-03.A2	   01:08:41:11	   01:08:45:03	   00:00:03:17	Unmuted
+2       	26      	32 - A New Chapter - C Swift, L Davies - BKM013.wav.new.02_01-05.A2	   01:09:04:02	   01:09:07:24	   00:00:03:22	Unmuted
+2       	27      	MKR11_POS COOKING_TEAM WORK_617_CT_FULL.wav.new.04-02.A2	   01:09:20:06	   01:09:23:04	   00:00:02:23	Muted
+2       	28      	07 - Boom Boom (Instrumental) - H Briasco - BLM165.wav.new.01_01-04.A2	   01:09:24:02	   01:09:40:21	   00:00:16:19	Unmuted
+2       	29      	07 - Boom Boom (Instrumental) - H Briasco - BLM165.wav.new.01_01-05.A2	   01:09:40:21	   01:09:42:02	   00:00:01:06	Unmuted
+2       	30      	MKR11_COOK_A_BREEZE_811_MS_FULL.wav.new.03-04.A2	   01:09:44:04	   01:09:52:05	   00:00:08:01	Unmuted
+2       	31      	MKR11_COOK_A_BREEZE_811_MS_FULL.wav.new.03-03.A2	   01:09:52:05	   01:10:08:08	   00:00:16:03	Unmuted
+2       	32      	29 - Think Carefully - A Yefymov - LVM166.wav.new.01_01-03.A2	   01:10:11:24	   01:10:28:17	   00:00:16:18	Unmuted
+2       	33      	12 - Summer Destiny - P Carr - BAM-BX101 (1).wav.new.01_01-03.A2	   01:12:43:19	   01:13:05:04	   00:00:21:10	Unmuted
+2       	34      	12 - Summer Destiny - P Carr - BAM-BX101 (1).wav.new.02_01-03.A2	   01:13:05:04	   01:13:20:05	   00:00:15:01	Unmuted
+2       	35      	MDE003_10_2 ROLLIN FT WIN CANT LOSE_INSTRUMENTAL.WAV.new.03_01-03.A2	   01:13:20:05	   01:13:21:18	   00:00:01:13	Unmuted
+2       	36      	02 - Ascending Waves - T Hewson - CRB081.wav.new.01-03.A2	   01:13:57:13	   01:14:23:00	   00:00:25:12	Unmuted
+2       	37      	64 - Clear Waters - J Hood - HML312.wav.new.01_01-03.A2	   01:14:30:09	   01:14:49:08	   00:00:18:24	Unmuted
+2       	38      	64 - Clear Waters - J Hood - HML312.wav.new.03_01-05.A2	   01:14:59:12	   01:15:03:03	   00:00:03:16	Unmuted
+2       	39      	ATN510_01_11 LIVE LOUDER_NO LEAD VOCALS.WAV.new.01_01-03.A2	   01:15:21:16	   01:15:40:03	   00:00:18:12	Unmuted
+2       	40      	10 - Changing Route - M Kouppa - MSU009.wav.new.01_01-03.A2	   01:15:57:01	   01:16:07:14	   00:00:10:13	Unmuted
+2       	41      	Katy Perry - Teenage Dream.wav.new.01_01-04.A2	   01:16:21:24	   01:16:29:24	   00:00:08:00	Unmuted
+2       	42      	01 - Feel Good - M Lena, F Prest - BAM-AS033.wav.new.01_01-03.A2	   01:16:42:04	   01:16:45:00	   00:00:02:21	Unmuted
+2       	43      	07 - Mass Production - J Goldbridge - MNM087.wav.new.01_01-05.A2	   01:17:21:05	   01:17:46:21	   00:00:25:16	Unmuted
+2       	44      	01 - Ultimate Rival - P Nickalls - CRB112.wav.new.02_01-07.A2	   01:18:02:06	   01:18:31:04	   00:00:28:23	Unmuted
+2       	45      	01 - Ultimate Rival - P Nickalls - CRB112.wav.new.02_01-08.A2	   01:18:31:19	   01:18:35:08	   00:00:03:14	Unmuted
+2       	46      	19 - Both Sides Scheme - S Azbel - BXMT029.wav.new.01_01-05.A2	   01:18:45:20	   01:18:53:12	   00:00:07:17	Unmuted
+2       	47      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_01-10.A2	   01:19:13:17	   01:19:15:22	   00:00:02:05	Unmuted
+2       	48      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_01-11.A2	   01:19:15:22	   01:19:30:06	   00:00:14:09	Unmuted
+2       	49      	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.new.01_01-07.A2	   01:19:31:22	   01:19:36:21	   00:00:04:24	Unmuted
+2       	50      	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.new.01_01-06.A2	   01:19:45:24	   01:19:54:04	   00:00:08:05	Unmuted
+2       	51      	Imagine Dragons - Believer (Instrumental).wav.new.01_01-03.A2	   01:20:00:20	   01:20:25:14	   00:00:24:19	Unmuted
+2       	52      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.02_01-03.A2	   01:20:34:13	   01:20:42:13	   00:00:08:00	Unmuted
+2       	53      	KPM2151_15 DECISION POINT (A).WAV.new.02_01-03.A2	   01:21:04:02	   01:21:07:09	   00:00:03:07	Unmuted
+2       	54      	Dua Lipa - 01 - Don_t Start Now [200062283].wav.new.03_01-05.A2	   01:21:08:00	   01:21:11:16	   00:00:03:16	Unmuted
+2       	55      	Dua Lipa - Dont-Start-Now-Instrumental.wav.new.01_01-03.A2	   01:21:11:16	   01:21:16:12	   00:00:04:21	Unmuted
+2       	56      	Dua Lipa - Dont-Start-Now-Instrumental.wav.new.02_01-05.A2	   01:21:16:12	   01:21:28:03	   00:00:11:16	Unmuted
+2       	57      	Dua Lipa - 01 - Don_t Start Now [200062283].wav.new.04_01-05.A2	   01:21:28:03	   01:21:30:20	   00:00:02:17	Unmuted
+2       	58      	100 - Laugh Goodbye (Inst) - S Ruchelman, S Tipton Sims, S Grace - FA162.wav.new.02_01-06.A2	   01:21:49:12	   01:21:56:17	   00:00:07:05	Unmuted
+2       	59      	100 - Laugh Goodbye (Inst) - S Ruchelman, S Tipton Sims, S Grace - FA162.wav.new.02_01-07.A2	   01:21:56:17	   01:22:03:22	   00:00:07:05	Unmuted
+2       	60      	100 - Laugh Goodbye (Inst) - S Ruchelman, S Tipton Sims, S Grace - FA162.wav.new.02_01-05.A2	   01:22:03:22	   01:22:09:05	   00:00:05:08	Unmuted
+2       	61      	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.01_01-04.A2	   01:22:16:19	   01:22:23:22	   00:00:07:03	Unmuted
+2       	62      	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.02_01-03.A2	   01:22:45:19	   01:22:48:04	   00:00:02:10	Unmuted
+2       	63      	19 - The Antwren - W Hunt - THH091.wav.new.01_01-08.A2	   01:23:14:08	   01:23:39:02	   00:00:24:19	Unmuted
+2       	64      	19 - The Antwren - W Hunt - THH091.wav.new.01_01-07.A2	   01:23:39:02	   01:23:43:15	   00:00:04:13	Unmuted
+2       	65      	01 - Hard At Work - J Gray, F Moenks - DBX024.wav.new.01_01-05.A2	   01:23:49:12	   01:23:52:03	   00:00:02:16	Unmuted
+2       	66      	01 - Hard At Work - J Gray, F Moenks - DBX024.wav.new.01_01-06.A2	   01:23:52:03	   01:23:58:24	   00:00:06:21	Unmuted
+2       	67      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-12.A2	   01:24:20:10	   01:24:30:02	   00:00:09:17	Unmuted
+2       	68      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-14.A2	   01:24:30:02	   01:24:34:09	   00:00:04:07	Unmuted
+2       	69      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-16.A2	   01:24:47:16	   01:24:54:12	   00:00:06:21	Unmuted
+2       	70      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-13.A2	   01:24:55:11	   01:25:09:16	   00:00:14:05	Unmuted
+2       	71      	28 - City Light Stomp (No Vox) - B Moon - FFM029.wav.new.01_01-05.A2	   01:25:13:24	   01:25:15:19	   00:00:01:20	Unmuted
+2       	72      	28 - City Light Stomp (No Vox) - B Moon - FFM029.wav.new.01_01-06.A2	   01:25:15:19	   01:25:23:14	   00:00:07:20	Unmuted
+2       	73      	84 - Infinite Love - D Chappell - BKM018.wav.new.01_01-05.A2	   01:25:23:14	   01:25:27:10	   00:00:03:21	Unmuted
+2       	74      	84 - Infinite Love - D Chappell - BKM018.wav.new.01_01-06.A2	   01:25:27:10	   01:25:29:05	   00:00:01:20	Unmuted
+2       	75      	16 - Gusesha - K Diaz - THH123.wav.new.02_01-04.A2	   01:25:31:18	   01:25:46:00	   00:00:14:07	Unmuted
+2       	76      	CASEY BARNES - We're Good Together.wav.Copy.01.new.01_01-03.A2	   01:26:07:06	   01:26:31:01	   00:00:23:20	Unmuted
+2       	77      	17 - Into The Sunset - R Crispin, L Davies - BKM002.wav.new.01_01-03.A2	   01:26:36:07	   01:27:02:01	   00:00:25:19	Unmuted
+2       	78      	Sabrina Carpenter - 1 - Espresso (CLEAN).wav.new.01_01-04.A2	   01:27:03:09	   01:27:33:09	   00:00:30:00	Unmuted
+2       	79      	BMGPM_2FM062_017_Down_To_Business_underscore__Farmer.wav.new.01_01-03.A2	   01:27:41:05	   01:27:44:19	   00:00:03:14	Unmuted
+2       	80      	BMGPM_2FM062_017_Down_To_Business_underscore__Farmer.wav.new.02_01-04.A2	   01:27:44:19	   01:27:51:16	   00:00:06:22	Unmuted
+2       	81      	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_01-04.A2	   01:27:54:03	   01:28:22:17	   00:00:28:14	Unmuted
+2       	82      	04 - Confidential Kitchen - B Howells - NLM118.wav.new.01_01-03.A2	   01:29:02:10	   01:29:16:11	   00:00:14:01	Unmuted
+2       	83      	04 - Colour Spectrum - C White - NLM213.wav.new.01_01-03.A2	   01:29:24:23	   01:29:37:14	   00:00:12:16	Unmuted
+2       	84      	04 - Colour Spectrum - C White - NLM213.wav.new.03_01-03.A2	   01:29:46:12	   01:29:49:14	   00:00:03:01	Unmuted
+2       	85      	81 - Split Second - T Gire - BXM639.wav.new.04_01-03.A2	   01:29:50:19	   01:29:57:22	   00:00:07:03	Unmuted
+2       	86      	81 - Split Second - T Gire - BXM639.wav.new.06_01-03.A2	   01:30:01:21	   01:30:06:20	   00:00:04:24	Unmuted
+2       	87      	MKRS12_NEUTRAL COOK_CREATING_317_BR_FULL.wav.wav.new.01_01-05.A2	   01:30:13:01	   01:30:18:06	   00:00:05:05	Unmuted
+2       	88      	MKRS12_NEUTRAL COOK_CREATING_317_BR_LITE.wav.wav.new.01_01-03.A2	   01:30:25:09	   01:30:34:05	   00:00:08:21	Unmuted
+2       	89      	MKRS12_COOK_STEP_UP_YOUR_GAME_008_AA_FULL.wav.wav.new.01_01-03.A2	   01:30:44:09	   01:31:03:07	   00:00:18:23	Unmuted
+2       	90      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.03_01-03.A2	   01:31:56:03	   01:31:58:08	   00:00:02:05	Unmuted
+2       	91      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.01_01-08.A2	   01:32:08:07	   01:32:20:07	   00:00:12:00	Unmuted
+2       	92      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.03_01-03.A2	   01:32:31:19	   01:32:37:21	   00:00:06:02	Unmuted
+2       	93      	53 - Distorted Truth (Underscore, No Piano Melody) - S Patterson - ALSO008.wav.new.02_01-03.A2	   01:32:49:08	   01:33:02:10	   00:00:13:02	Unmuted
+2       	94      	Tiësto & Tears For Fears & NIIKO X SWAE & GUDFELLA - Rule The World (Everybody).wav.new.02_01-07.A2	   01:33:02:10	   01:33:04:09	   00:00:01:24	Unmuted
+2       	95      	Tiësto & Tears For Fears & NIIKO X SWAE & GUDFELLA - Rule The World (Everybody).wav.new.03_01-03.A2	   01:33:04:09	   01:33:08:02	   00:00:03:18	Unmuted
+2       	96      	Tiësto & Tears For Fears & NIIKO X SWAE & GUDFELLA - Rule The World (Everybody).wav.new.01_01-03.A2	   01:33:08:02	   01:33:11:01	   00:00:02:24	Unmuted
+2       	97      	BMGPM_SC232_006_D.U.M.B._inst__Kidonis_Zopke.wav.new.01_01-03.A2	   01:33:35:13	   01:33:39:13	   00:00:04:00	Unmuted
+2       	98      	BMGPM_SC232_006_D.U.M.B._inst__Kidonis_Zopke.wav.new.02_01-03.A2	   01:33:39:13	   01:33:41:14	   00:00:02:01	Unmuted
+2       	99      	BMGPM_SC232_006_D.U.M.B._inst__Kidonis_Zopke.wav.new.03_01-04.A2	   01:33:41:14	   01:33:55:00	   00:00:13:11	Unmuted
+2       	100     	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.04_01-03.A1	   01:34:21:05	   01:34:22:08	   00:00:01:03	Unmuted
+2       	101     	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.02_01-03.A2	   01:34:33:04	   01:34:38:11	   00:00:05:07	Unmuted
+2       	102     	02 - Building Tension (Underscore) - P Ruske - DBX003.wav.new.03_01-03.A2	   01:34:39:08	   01:34:44:23	   00:00:05:15	Unmuted
+2       	103     	01 - Beds Of Tension - O Spink, C White - CRB067.wav.new.01_01-04.A2	   01:34:55:04	   01:35:03:11	   00:00:08:07	Unmuted
+2       	104     	01 - Beds Of Tension - O Spink, C White - CRB067.wav.new.01_01-05.A2	   01:35:03:11	   01:35:07:06	   00:00:03:20	Unmuted
+2       	105     	34 - Beds Of Tension B (Underscore) - O Spink, C White - CRB067.wav.new.02_01-03.A2	   01:35:14:23	   01:35:22:03	   00:00:07:05	Unmuted
+2       	106     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-23.A2	   01:35:42:05	   01:35:56:14	   00:00:14:09	Unmuted
+2       	107     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-22.A2	   01:36:00:14	   01:36:06:16	   00:00:06:02	Unmuted
+2       	108     	17 - Holding Out - D Norlo, M Wells - DBX002.wav.Copy.01.new.01_01-03.A2	   01:36:18:20	   01:37:03:13	   00:00:44:18	Unmuted
+2       	109     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.01_01-04.A2	   01:37:07:23	   01:37:15:15	   00:00:07:17	Unmuted
+2       	110     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.01_01-05.A2	   01:37:24:12	   01:37:46:20	   00:00:22:08	Unmuted
+2       	111     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.02_01-06.A2	   01:37:54:19	   01:38:07:11	   00:00:12:17	Unmuted
+2       	112     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.02_01-07.A2	   01:38:11:13	   01:38:13:06	   00:00:01:18	Unmuted
+2       	113     	BF_403_TK001_TOUGH_COMPETITION_James_Brown_Beats_Fresh_Music.mp3.new.03_01-03.A2	   01:38:24:12	   01:38:42:05	   00:00:17:18	Unmuted
+2       	114     	32 - Counting With Caution B (Underscore) - R Dutnall - CRB060.wav.new.01_01-03.A2	   01:39:28:05	   01:39:52:24	   00:00:24:19	Unmuted
+2       	115     	05 - Ticking Tension - C White - CRB060.wav.new.01_01-03.A2	   01:39:56:15	   01:40:12:18	   00:00:16:03	Unmuted
+2       	116     	05 - Ticking Tension - C White - CRB060.wav.new.02_01-03.A2	   01:40:12:18	   01:40:19:03	   00:00:06:10	Unmuted
+2       	117     	22 - Admission (Alternative) - R Chorzelski - RSM440.wav.new.01_01-04.A2	   01:40:22:23	   01:40:52:22	   00:00:29:24	Unmuted
+2       	118     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_KEYS.wav.wav.new.01-03.A2	   01:40:57:04	   01:41:05:07	   00:00:08:03	Unmuted
+2       	119     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_KEYS.wav.wav.new.01-04.A2	   01:41:19:01	   01:41:21:01	   00:00:02:00	Unmuted
+2       	120     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-13.A2	   01:41:28:06	   01:41:41:13	   00:00:13:07	Unmuted
+2       	121     	XRC033_06 ALL IN A DAYS WORK.WAV.new.01_01-03.A2	   01:42:07:19	   01:42:22:20	   00:00:15:01	Unmuted
+2       	122     	MKRS12_LITE-TENSION_BACK TO WORK_324_BR_FULL.wav.wav.new.01_01-05.A2	   01:42:26:19	   01:43:03:20	   00:00:37:01	Unmuted
+2       	123     	MKRS12_COOKING JEOPARDY_HOT KITCHEN_1103v2_RC_FULL.wav.wav.new.01-02.A2	   01:43:35:09	   01:44:06:11	   00:00:31:02	Unmuted
+2       	124     	02 - Giving Nothing Away - D Phillipson - ALSO009.wav.new.01_01-03.A2	   01:44:09:19	   01:44:13:24	   00:00:04:05	Unmuted
+2       	125     	02 - Giving Nothing Away - D Phillipson - ALSO009.wav.new.02_01-03.A2	   01:44:13:24	   01:44:25:14	   00:00:11:15	Unmuted
+2       	126     	02 - Giving Nothing Away - D Phillipson - ALSO009.wav.new.03_01-03.A2	   01:44:25:14	   01:44:30:12	   00:00:04:23	Unmuted
+2       	127     	MKR11_DRAMA_801_MS_FULL.wav.new.03_01-04.A2	   01:44:48:05	   01:44:56:22	   00:00:08:17	Unmuted
+2       	128     	MKR11_DRAMA_801_MS_FULL.wav.new.03_01-05.A2	   01:44:56:22	   01:45:24:06	   00:00:27:09	Unmuted
+2       	129     	MKRS12_TENSION_UNRAVELLING_v2_215_DH_FULL.wav.wav.new.02_01-04.A2	   01:45:39:00	   01:45:49:14	   00:00:10:14	Unmuted
+2       	130     	MKRS12_POS COOKING_PERFECT TIMING_604_CT_FULL.wav.wav.new.02-02.A2	   01:46:10:07	   01:46:18:08	   00:00:08:01	Unmuted
+2       	131     	DED0188_01 TENSION AND TASKING STRINGS (A).WAV.new.01_01-05.A2	   01:46:30:23	   01:47:34:06	   00:01:03:08	Unmuted
+2       	132     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-16.A2	   01:47:36:10	   01:47:56:22	   00:00:20:12	Unmuted
+2       	133     	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.01_02-03.A2	   01:49:09:03	   01:49:39:04	   00:00:30:01	Unmuted
+2       	134     	32 - A Tense Situation (Underscore) - P Ruske - DBX003.wav.Copy.01.new.01_01-03.A2	   01:49:39:09	   01:49:50:07	   00:00:10:23	Unmuted
+2       	135     	TRL0184_09_2 ONE EYE OPEN_INSTRUMENTAL.WAV.new.02_01-07.A2	   01:50:01:24	   01:50:23:07	   00:00:21:08	Unmuted
+2       	136     	TRL0184_09_2 ONE EYE OPEN_INSTRUMENTAL.WAV.new.02_01-10.A2	   01:50:24:12	   01:50:43:11	   00:00:18:24	Unmuted
+2       	137     	MKRS12_COOK_SASSYCHEFS_703v2_AS_FULL.wav.wav.new.02_01-07.A2	   01:50:55:13	   01:51:12:08	   00:00:16:20	Unmuted
+2       	138     	UPM_FRX38_7_Outrunning_the_Odds_Instrumental_Yates_1427287.wav.new.01_01-08.A2	   01:52:10:12	   01:52:11:10	   00:00:00:23	Unmuted
+2       	139     	UPM_FRX38_7_Outrunning_the_Odds_Instrumental_Yates_1427287.wav.new.01_01-09.A2	   01:52:11:10	   01:52:33:06	   00:00:21:21	Unmuted
+2       	140     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-13.A2	   01:52:55:01	   01:52:55:11	   00:00:00:10	Unmuted
+2       	141     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-15.A2	   01:52:55:11	   01:53:10:00	   00:00:14:14	Unmuted
+2       	142     	10 - Conserve - R Chorzelski - RSM440.wav.new.03_01-05.A2	   01:53:10:11	   01:53:18:18	   00:00:08:07	Unmuted
+2       	143     	01 - Building Tension - P Ruske - DBX003.wav.Copy.01.new.01_01-03.A2	   01:54:01:18	   01:54:32:15	   00:00:30:22	Unmuted
+2       	144     	21 - Dominion - M Noguer - BXMT023.wav.new.01_01-05.A2	   01:54:34:02	   01:54:37:17	   00:00:03:15	Unmuted
+2       	145     	21 - Dominion - M Noguer - BXMT023.wav.new.01_01-04.A2	   01:54:37:17	   01:54:47:19	   00:00:10:02	Unmuted
+2       	146     	21 - Dominion - M Noguer - BXMT023.wav.new.02_01-04.A2	   01:55:05:06	   01:55:09:10	   00:00:04:04	Unmuted
+2       	147     	TRL0195_04 MISSION DAY.WAV.new.01-04.A2	   01:55:11:10	   01:55:25:24	   00:00:14:14	Unmuted
+2       	148     	05 - Game Show Showdown - A Deeping - CRB105.wav.new.01-03.A2	   01:55:52:21	   01:55:58:03	   00:00:05:07	Unmuted
+2       	149     	WESTONE_009_FEEL_THE_TENSION_(A)_ZAC_JORDAN_(PRS)_TSH259_The_Scoring_House.wav.new.01_01-03.A2	   01:56:03:22	   01:56:29:00	   00:00:25:03	Unmuted
+2       	150     	11 - Don't Get Caught - M Pes - ALSO058.wav.new.02-02.A2	   01:56:51:08	   01:56:55:12	   00:00:04:04	Unmuted
+2       	151     	MKRS12_NEUTRAL_SIMPLY_SUBTLE_010_AA_FULL.wav.wav.new.01_01-03.A2	   01:56:56:11	   01:57:39:13	   00:00:43:02	Unmuted
+2       	152     	10 - On The Brink - R Chorzelski - RSM533.mp3.new.01-03.A2	   01:57:44:19	   01:58:09:08	   00:00:24:14	Unmuted
+2       	153     	WESTONE_001_STITCH_IN_TIME_(A)_MATT_NORMAN_(PRS)_WOM659_West_One_Music_Limited.wav.new.04_01-03.A2	   01:58:33:20	   01:58:39:23	   00:00:06:03	Unmuted
+2       	154     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.02_01-03.A2	   01:59:22:10	   01:59:33:06	   00:00:10:21	Unmuted
+2       	155     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_FULL.wav.wav.new.01_01-06.A2	   01:59:47:06	   02:00:52:23	   00:01:05:17	Unmuted
+2       	156     	UPM_WAX23_135_Rising_Through_Stars_Instrumental_Barry_Laurel_Street_Gagel_1602830.wav.new.02_01-03.A2	   02:01:08:20	   02:01:22:08	   00:00:13:13	Unmuted
+2       	157     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_FX.wav.wav.new.01_01-04	   02:01:54:21	   02:01:59:04	   00:00:04:08	Unmuted
+2       	158     	XRC111_05 THE FULL STOP.WAV.new.01_01-08.A2	   02:02:01:22	   02:02:45:20	   00:00:43:23	Unmuted
+2       	159     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-17.A2	   02:02:56:08	   02:03:35:06	   00:00:38:23	Unmuted
+2       	160     	MKRS12_LIGHTTENSION_TASTETEST_507_TR_FULL.wav.wav.new.01_01-04.A2	   02:03:58:06	   02:04:19:11	   00:00:21:05	Unmuted
+2       	161     	06 - Cautiously Optimistic - T Hempton - ALSO047.wav.new.01_01-07.A2	   02:04:48:02	   02:05:04:10	   00:00:16:08	Unmuted
+2       	162     	MKRS12_POSITIVE_GOOD TIMES COMING_903_RL_FULLMIX.wav.wav.new.01_01-03.A2	   02:05:09:23	   02:05:27:22	   00:00:17:24	Unmuted
+2       	163     	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.Copy.01.new.02_01-03.A2	   02:06:09:19	   02:06:18:15	   00:00:08:21	Unmuted
+2       	164     	07 - Excited Nervousness - S Patterson - ALL125.wav.new.02-02.A2	   02:06:24:23	   02:06:28:11	   00:00:03:13	Unmuted
+2       	165     	MKRS12_COOKING_COME_TO_MY_KITCHEN_v2_307_BR_FULL.wav.wav.new.03_01-07.A2	   02:06:58:09	   02:07:01:22	   00:00:03:13	Unmuted
+2       	166     	MKRS12_COOKING_COME_TO_MY_KITCHEN_v2_307_BR_FULL.wav.wav.new.03_01-05.A2	   02:07:01:22	   02:07:15:19	   00:00:13:22	Unmuted
+2       	167     	MKRS12_POSITIVE_REFLECT_JOY_005_v4_AA_FULL.wav.wav.new.02_01-03.A2	   02:07:34:15	   02:07:39:19	   00:00:05:04	Unmuted
+2       	168     	02 - Answer The Question - K Macken - ALSO042.wav.new.01_01-03.A2	   02:07:41:04	   02:08:10:24	   00:00:29:20	Unmuted
+2       	169     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-14.A2	   02:08:49:03	   02:09:02:18	   00:00:13:15	Unmuted
+2       	170     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-19.A2	   02:09:02:18	   02:09:05:19	   00:00:03:01	Unmuted
+2       	171     	09 - On A Knife Edge - R Keyworth - RSM440.wav.new.01_01-06.A2	   02:09:07:19	   02:09:47:00	   00:00:39:06	Unmuted
+2       	172     	09 - Glimmers Of Light - B Howells - NLM169.wav.new.02_01-03.A2	   02:11:04:02	   02:11:23:24	   00:00:19:22	Unmuted
+2       	173     	23 - Judgement Is Coming - A Degooi, J Bailey - DBX002.wav.new.01_01-03.A2	   02:11:23:24	   02:11:38:02	   00:00:14:03	Unmuted
+2       	174     	XRC073_07 EXPLICATE MILE.WAV.new.01-03.A2	   02:12:18:24	   02:13:03:09	   00:00:44:10	Unmuted
+2       	175     	01 - Blow By Blow - B Sailer, M Wells - DBX001.wav.new.01_01-04.A2	   02:13:40:14	   02:14:06:13	   00:00:25:24	Unmuted
+2       	176     	07 - Holding Out Hope - P Faddoul - ALSO054.wav.new.02_01-04.A2	   02:14:14:04	   02:14:18:24	   00:00:04:20	Unmuted
+2       	177     	MKRS12_NEG TO POS_TASTEBUDS CHANGE_302_BR_FULL.wav.wav.new.01_01-04.A2	   02:14:29:17	   02:14:43:16	   00:00:13:24	Unmuted
+2       	178     	01 - Building Tension - P Ruske - DBX003.wav.new.02_01-03.A2	   02:15:13:18	   02:15:28:07	   00:00:14:14	Unmuted
+2       	179     	17 - Black Hat - J Ioanna - BBX292.wav.new.01_01-05.A2	   02:15:37:19	   02:15:46:08	   00:00:08:14	Unmuted
+2       	180     	MKRS12_NEUTRAL TO POS_THANKYOU_316_BR_FULL.wav.wav.new.01_01-11.A2	   02:16:02:24	   02:16:07:22	   00:00:04:22	Unmuted
+2       	181     	MKRS12_NEUTRAL TO POS_THANKYOU_316_BR_OnlyPNO.wav.wav.new.02_01-03.A2	   02:16:07:22	   02:16:22:09	   00:00:14:12	Unmuted
+2       	182     	06 - Escape Room Challenge - T Hewson - CRB105.wav.new.01_01-03.A2	   02:16:38:04	   02:16:58:04	   00:00:20:00	Unmuted
+2       	183     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_FULL.wav.wav.new.01_01-07.A2	   02:17:18:10	   02:17:27:23	   00:00:09:13	Unmuted
+2       	184     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_FULL.wav.wav.new.01_01-05.A2	   02:17:42:06	   02:18:13:07	   00:00:31:00	Unmuted
+2       	185     	WESTONE_059_GOT_ME_FEELIN'_(B)_ISAAC_ASHBY_(PRS)_WOM661_West_One_Music_Limited.wav.new.01_01-04.A2	   02:18:29:23	   02:18:30:18	   00:00:00:20	Unmuted
+2       	186     	WESTONE_059_GOT_ME_FEELIN'_(B)_ISAAC_ASHBY_(PRS)_WOM661_West_One_Music_Limited.wav.new.01_01-05.A2	   02:18:30:18	   02:18:51:23	   00:00:21:05	Unmuted
+2       	187     	WESTONE_007_ALL_AROUND_US_(A)_JACK_MONROE_(PRS)_WOM619_West_One_Music_Limited.wav.new.01_01-09.A2	   02:19:03:01	   02:19:14:08	   00:00:11:07	Unmuted
+2       	188     	WESTONE_007_ALL_AROUND_US_(A)_JACK_MONROE_(PRS)_WOM619_West_One_Music_Limited.wav.new.01_01-08.A2	   02:19:14:08	   02:19:18:21	   00:00:04:13	Unmuted
+2       	189     	UPM_HYPR50_42_Into_The_Unknown_Instrumental_Davis_Odnoralov_1937199.wav.new.01_01-03.A2	   02:19:24:21	   02:19:49:11	   00:00:24:15	Unmuted
+
+
+TRACK NAME:	MUSIC 2 (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-09.A1	   01:00:19:02	   01:00:40:09	   00:00:21:07	Unmuted
+1       	2       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-13.A1	   01:00:49:13	   01:00:52:20	   00:00:03:07	Unmuted
+1       	3       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.01_01-05.A2	   01:00:54:18	   01:01:01:04	   00:00:06:11	Unmuted
+1       	4       	UPM_WAX38_6_Show_You_What_I_Got_Vocal_Lead_Brown_Gasparian_Olmos_1972666.wav.new.01_01-03.A2	   01:01:07:21	   01:01:12:10	   00:00:04:14	Unmuted
+1       	5       	WESTONE_077_LET'S_GET_TO_WORK_(B)_RYAN_T._SHORT_(BMI)_WOM565_West_One_Music_Limited.wav.new.01_01-03.A1	   01:01:16:10	   01:01:23:19	   00:00:07:09	Unmuted
+1       	6       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-09.A1	   01:01:25:04	   01:01:31:15	   00:00:06:11	Unmuted
+1       	7       	UPM_SVN87_4_Requiem_Dies_Irae_Remixed_Vocal_Lead_Burrows_Hill_Mallender_Verdi_2059436.wav.new.01_01-05.A2	   01:01:34:11	   01:01:36:19	   00:00:02:08	Unmuted
+1       	8       	CASEY BARNES - Summer Nights (INSTRUMENTAL).wav.new.01_01-04.A1	   01:01:54:22	   01:02:11:12	   00:00:16:15	Unmuted
+1       	9       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-12.A1	   01:02:20:00	   01:02:20:11	   00:00:00:11	Unmuted
+1       	10      	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-11.A1	   01:02:32:17	   01:02:35:05	   00:00:02:13	Unmuted
+1       	11      	10 - Ace - J Hammer - EOS015.wav.new.01_01-04.A1	   01:02:44:12	   01:02:44:19	   00:00:00:07	Unmuted
+1       	12      	10 - Ace - J Hammer - EOS015.wav.new.01_01-05.A1	   01:02:44:19	   01:03:01:22	   00:00:17:03	Unmuted
+1       	13      	Sheppard - Geronimo.wav.new.01_01-04.A1	   01:03:03:14	   01:03:44:03	   00:00:40:14	Unmuted
+1       	14      	Sheppard - Geronimo (Instrumental).wav.new.02_01-04.A1	   01:03:44:03	   01:03:54:06	   00:00:10:03	Unmuted
+1       	15      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.02_01-03.A1	   01:04:17:23	   01:04:18:05	   00:00:00:07	Unmuted
+1       	16      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.01_01-05.A1	   01:04:18:05	   01:04:25:19	   00:00:07:14	Unmuted
+1       	17      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.01_01-07.A1	   01:04:25:19	   01:04:26:17	   00:00:00:23	Unmuted
+1       	18      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.03_01-03.A1	   01:04:26:17	   01:04:29:12	   00:00:02:20	Unmuted
+1       	19      	136 - France - Le Beaumarchais (Sting02) - J N Kensington - LVM014.wav.new.01_01-02.A1	   01:04:30:02	   01:04:34:00	   00:00:03:23	Unmuted
+1       	20      	XCD448_04 TAKIN HOLD.WAV.new.01_01-04.A1	   01:05:04:15	   01:05:07:12	   00:00:02:22	Unmuted
+1       	21      	XCD448_04_2 TAKIN HOLD_INSTRUMENTAL.WAV.new.03_01-04.A1	   01:05:07:12	   01:05:19:05	   00:00:11:18	Unmuted
+1       	22      	XCD448_04_2 TAKIN HOLD_INSTRUMENTAL.WAV.new.04_01-03.A1	   01:05:23:02	   01:05:25:06	   00:00:02:04	Unmuted
+1       	23      	MKR11_MARVELSTYLE_RISER_MS.wav.new.01_01-03.A1	   01:05:38:02	   01:05:39:19	   00:00:01:17	Unmuted
+1       	24      	31 - Counting Down - J Vincent - HML277.wav.new.02_01-03.A1	   01:06:10:04	   01:06:17:13	   00:00:07:09	Unmuted
+1       	25      	31 - Counting Down - J Vincent - HML277.wav.new.03_01-03.A1	   01:06:17:13	   01:06:18:17	   00:00:01:04	Unmuted
+1       	26      	XCD428_01 GET IT KICKIN.WAV.new.02_01-03.A1	   01:06:19:01	   01:06:26:16	   00:00:07:15	Unmuted
+1       	27      	XCD428_01 GET IT KICKIN.WAV.new.01_01-04.A1	   01:06:26:16	   01:06:28:03	   00:00:01:12	Unmuted
+1       	28      	XCD428_01 GET IT KICKIN.WAV.new.01_01-05.A1	   01:06:28:03	   01:06:41:17	   00:00:13:14	Unmuted
+1       	29      	XCD428_01_2 GET IT KICKIN_INSTRUMENTAL.WAV.new.02_01-03.A1	   01:06:41:17	   01:06:44:13	   00:00:02:21	Unmuted
+1       	30      	BAKER BOY Move.wav.new.01_01-03.A1	   01:07:02:18	   01:07:25:21	   00:00:23:03	Unmuted
+1       	31      	TRL0107_05 CALYPSO (A).wav.new.02_01-03.A1	   01:07:34:13	   01:07:34:24	   00:00:00:11	Unmuted
+1       	32      	01 - Lemme Show Ya - J Vincent - HML257.wav.new.02_01-03.A1	   01:07:47:05	   01:08:14:13	   00:00:27:08	Unmuted
+1       	33      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.03_01-03.A1	   01:08:31:22	   01:08:39:17	   00:00:07:20	Unmuted
+1       	34      	32 - A New Chapter - C Swift, L Davies - BKM013.wav.new.02_01-04.A1	   01:08:43:03	   01:09:05:12	   00:00:22:09	Unmuted
+1       	35      	MKR11_POS COOKING_TEAM WORK_617_CT_FULL.wav.new.03-02.A1	   01:09:07:09	   01:09:23:17	   00:00:16:08	Unmuted
+1       	36      	MKR11_COOK_A_BREEZE_811_MS_FULL.wav.new.04-02.A1	   01:10:07:23	   01:10:12:19	   00:00:04:21	Unmuted
+1       	37      	Niall Horan - Nice to Meet Ya.wav.new.03_01-10.A1	   01:10:27:09	   01:11:26:21	   00:00:59:12	Unmuted
+1       	38      	Adam Lambert, Make Me Feel (Mighty Real).wav.Copy.01.new.01_01-06.A1	   01:11:28:15	   01:11:54:01	   00:00:25:11	Unmuted
+1       	39      	Adam Lambert, Make Me Feel (Mighty Real).wav.Copy.01.new.01_01-05.A1	   01:11:54:01	   01:11:57:15	   00:00:03:14	Unmuted
+1       	40      	32 - Jump Start - T Clarke, A Shaw - BBX296.wav.new.01_01-05.A1	   01:12:01:08	   01:12:43:04	   00:00:41:21	Unmuted
+1       	41      	02 - Ascending Waves - T Hewson - CRB081.wav.new.01-04.A1	   01:13:33:17	   01:13:58:16	   00:00:24:24	Unmuted
+1       	42      	02 - Ascending Waves - T Hewson - CRB081.wav.new.02-02.A1	   01:14:21:20	   01:14:26:21	   00:00:05:01	Unmuted
+1       	43      	64 - Clear Waters - J Hood - HML312.wav.new.02_01-03.A1	   01:14:49:08	   01:15:00:03	   00:00:10:20	Unmuted
+1       	44      	64 - Clear Waters - J Hood - HML312.wav.new.03_01-05.A1	   01:15:02:22	   01:15:03:23	   00:00:01:01	Unmuted
+1       	45      	Freya Ridings - 01 - Castles [200039433].wav.new.01_01-04.A1	   01:15:03:23	   01:15:12:05	   00:00:08:07	Unmuted
+1       	46      	Freya Ridings - 01 - Castles [200039433].wav.new.02_01-05.A1	   01:15:12:05	   01:15:20:14	   00:00:08:09	Unmuted
+1       	47      	09 - Easy Experiments - T Hewson - CRB093.wav.new.01_01-03.A1	   01:15:41:09	   01:15:56:16	   00:00:15:07	Unmuted
+1       	48      	10 - Changing Route - M Kouppa - MSU009.wav.new.02_01-03.A1	   01:16:07:13	   01:16:10:01	   00:00:02:13	Unmuted
+1       	49      	Katy Perry - Teenage Dream.wav.new.02_01-03.A1	   01:16:28:09	   01:16:42:09	   00:00:14:00	Unmuted
+1       	50      	01 - Feel Good - M Lena, F Prest - BAM-AS033.wav.new.02_01-03.A1	   01:16:43:17	   01:16:49:23	   00:00:06:06	Unmuted
+1       	51      	03 - Feel Good (Underscore) - M Lena, F Prest - BAM-AS033.wav.new.01_01-03.A1	   01:16:49:23	   01:16:58:10	   00:00:08:12	Unmuted
+1       	52      	02 - Feel Good (Instrumental) - M Lena, F Prest - BAM-AS033.wav.new.01_01-04.A1	   01:16:58:10	   01:17:08:03	   00:00:09:18	Unmuted
+1       	53      	02 - Feel Good (Instrumental) - M Lena, F Prest - BAM-AS033.wav.new.01_01-05.A1	   01:17:08:03	   01:17:08:07	   00:00:00:04	Unmuted
+1       	54      	03 - Feel Good (Underscore) - M Lena, F Prest - BAM-AS033.wav.new.02_01-03.A1	   01:17:08:07	   01:17:10:11	   00:00:02:04	Unmuted
+1       	55      	07 - Mass Production - J Goldbridge - MNM087.wav.new.01_01-05.A1	   01:17:45:09	   01:17:47:03	   00:00:01:19	Unmuted
+1       	56      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.02_01-03.A1	   01:17:52:02	   01:18:02:03	   00:00:10:01	Unmuted
+1       	57      	01 - Ultimate Rival - P Nickalls - CRB112.wav.new.02_01-06.A1	   01:18:35:00	   01:18:43:18	   00:00:08:18	Unmuted
+1       	58      	19 - Both Sides Scheme - S Azbel - BXMT029.wav.new.01_01-04.A1	   01:18:53:01	   01:19:13:02	   00:00:20:01	Unmuted
+1       	59      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.02_02-03.A1	   01:19:29:24	   01:19:32:01	   00:00:02:02	Unmuted
+1       	60      	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.new.01_01-05.A1	   01:19:34:15	   01:19:47:04	   00:00:12:14	Unmuted
+1       	61      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.01_01-03.A1	   01:20:24:24	   01:20:33:05	   00:00:08:06	Unmuted
+1       	62      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.03_01-04.A1	   01:20:33:05	   01:20:35:17	   00:00:02:12	Unmuted
+1       	63      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.03_01-05.A1	   01:20:42:13	   01:20:44:04	   00:00:01:16	Unmuted
+1       	64      	KPM2151_15 DECISION POINT (A).WAV.new.01_01-03.A1	   01:20:48:02	   01:21:04:18	   00:00:16:16	Unmuted
+1       	65      	Kylie Minogue - Padam Padam - Extended Mix.wav.new.02_01-03.A1	   01:21:30:19	   01:21:44:14	   00:00:13:20	Unmuted
+1       	66      	Kylie Minogue - Padam Padam - Extended Mix.wav.new.04_01-03.A1	   01:21:44:14	   01:21:50:11	   00:00:05:22	Unmuted
+1       	67      	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.01_01-04.A1	   01:22:24:09	   01:22:46:10	   00:00:22:01	Unmuted
+1       	68      	05 - Choose Carefully - G Thomas - ALSO047.wav.new.01_01-03.A1	   01:22:50:20	   01:23:10:23	   00:00:20:03	Unmuted
+1       	69      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-12.A1	   01:24:05:19	   01:24:19:12	   00:00:13:18	Unmuted
+1       	70      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-14.A1	   01:24:35:08	   01:24:48:13	   00:00:13:05	Unmuted
+1       	71      	83 - Blame On You - C Swift - BKM015.wav.new.02_01-03.A1	   01:25:08:06	   01:25:12:08	   00:00:04:02	Unmuted
+1       	72      	28 - City Light Stomp (No Vox) - B Moon - FFM029.wav.new.01_01-05.A1	   01:25:23:14	   01:25:25:06	   00:00:01:17	Unmuted
+1       	73      	16 - Gusesha - K Diaz - THH123.wav.new.01_01-03.A1	   01:25:27:23	   01:25:33:21	   00:00:05:23	Unmuted
+1       	74      	33 - Into The Gates Of Hell - A Hromcovs - NMM095.wav.new.01_01-03.A1	   01:25:46:05	   01:26:03:18	   00:00:17:13	Unmuted
+1       	75      	CASEY BARNES - We're Good Together.wav.Copy.01.new.04_01-03.A1	   01:26:29:11	   01:26:32:15	   00:00:03:04	Unmuted
+1       	76      	4EM021_trk005_REVERSE_END_HIT_r_reale.mp3.new.04.Copy.01.new.02.Copy.01.new.01.Copy.01.new.01_01-03.A1	   01:27:52:24	   01:27:54:16	   00:00:01:17	Unmuted
+1       	77      	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_FULL.wav.wav.new.03-02.A1	   01:28:37:16	   01:29:02:13	   00:00:24:22	Unmuted
+1       	78      	1563 - Barrel Roll - P Dinletir - AUMT013.wav.new.01.Copy.01.new.02_01-03.A1	   01:29:16:01	   01:29:22:13	   00:00:06:12	Unmuted
+1       	79      	04 - Colour Spectrum - C White - NLM213.wav.new.02_01-04.A1	   01:29:37:09	   01:29:46:21	   00:00:09:12	Unmuted
+1       	80      	81 - Split Second - T Gire - BXM639.wav.new.05_01-03.A1	   01:29:55:22	   01:30:04:03	   00:00:08:06	Unmuted
+1       	81      	MKRS12_NEUTRAL COOK_CREATING_317_BR_FULL.wav.wav.new.01_01-05.A1	   01:30:18:06	   01:30:25:09	   00:00:07:03	Unmuted
+1       	82      	MKRS12_NEUTRAL COOK_CREATING_317_BR_LITE.wav.wav.new.02_01-03.A1	   01:30:33:13	   01:30:46:03	   00:00:12:15	Unmuted
+1       	83      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_01-08.A1	   01:31:03:14	   01:31:24:07	   00:00:20:18	Unmuted
+1       	84      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.03_01-03.A1	   01:31:24:07	   01:31:28:13	   00:00:04:06	Unmuted
+1       	85      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.01_01-05.A1	   01:31:30:17	   01:31:46:01	   00:00:15:09	Unmuted
+1       	86      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.01_01-04.A1	   01:31:46:21	   01:31:56:03	   00:00:09:07	Unmuted
+1       	87      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.01_01-09.A1	   01:31:58:08	   01:32:08:07	   00:00:09:24	Unmuted
+1       	88      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.02_01-05.A1	   01:32:21:09	   01:32:23:09	   00:00:02:00	Unmuted
+1       	89      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.02_01-06.A1	   01:32:23:14	   01:32:31:19	   00:00:08:05	Unmuted
+1       	90      	53 - Distorted Truth (Underscore, No Piano Melody) - S Patterson - ALSO008.wav.new.01_01-03.A1	   01:32:38:05	   01:32:49:08	   00:00:11:03	Unmuted
+1       	91      	56 - Distorted Truth (Drums, Perc, Bass Mix Only) - S Patterson - ALSO008.wav.new.01_01-03.A1	   01:32:52:16	   01:32:54:21	   00:00:02:04	Unmuted
+1       	92      	15 - Hard Pulse (No Breaks) - J Colvin, F Tidnam - OUT034.wav.new.01_01-06.A1	   01:33:12:05	   01:33:13:16	   00:00:01:11	Unmuted
+1       	93      	15 - Hard Pulse (No Breaks) - J Colvin, F Tidnam - OUT034.wav.new.01_01-07.A1	   01:33:13:16	   01:33:25:22	   00:00:12:06	Unmuted
+1       	94      	15 - Hard Pulse (No Breaks) - J Colvin, F Tidnam - OUT034.wav.new.01_01-09.A1	   01:33:25:22	   01:33:35:01	   00:00:09:04	Unmuted
+1       	95      	22 - Delicate Feelings (Pizzicato) - S Poge, C Lehn - ART039.wav.new.01_01-04.A1	   01:34:03:13	   01:34:18:00	   00:00:14:12	Unmuted
+1       	96      	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.03_01-07.A1	   01:34:22:03	   01:34:26:16	   00:00:04:13	Unmuted
+1       	97      	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.03_01-08.A1	   01:34:26:16	   01:34:33:08	   00:00:06:17	Unmuted
+1       	98      	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.01_01-03.A1	   01:34:35:05	   01:34:39:11	   00:00:04:06	Unmuted
+1       	99      	02 - Building Tension (Underscore) - P Ruske - DBX003.wav.new.04_01-04.A1	   01:34:44:03	   01:34:58:18	   00:00:14:14	Unmuted
+1       	100     	34 - Beds Of Tension B (Underscore) - O Spink, C White - CRB067.wav.new.01_01-03.A1	   01:35:06:03	   01:35:14:24	   00:00:08:21	Unmuted
+1       	101     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-14.A1	   01:35:22:12	   01:35:44:23	   00:00:22:11	Unmuted
+1       	102     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-23.A1	   01:35:54:13	   01:36:01:14	   00:00:07:01	Unmuted
+1       	103     	10 - Conserve - R Chorzelski - RSM440.wav.new.03_01-06.A1	   01:36:06:21	   01:36:20:09	   00:00:13:13	Unmuted
+1       	104     	17 - Holding Out - D Norlo, M Wells - DBX002.wav.Copy.01.new.02_01-06.A1	   01:37:03:03	   01:37:07:00	   00:00:03:22	Unmuted
+1       	105     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.02_01-07.A1	   01:37:13:13	   01:37:24:19	   00:00:11:06	Unmuted
+1       	106     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.01_01-03.A1	   01:37:49:01	   01:37:55:10	   00:00:06:09	Unmuted
+1       	107     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.02_01-07.A1	   01:38:06:20	   01:38:11:18	   00:00:04:23	Unmuted
+1       	108     	BF_403_TK001_TOUGH_COMPETITION_James_Brown_Beats_Fresh_Music.mp3.new.01_01-03.A1	   01:38:16:17	   01:38:25:00	   00:00:08:08	Unmuted
+1       	109     	BF_403_TK001_TOUGH_COMPETITION_James_Brown_Beats_Fresh_Music.mp3.new.02_01-03.A1	   01:38:41:17	   01:38:49:17	   00:00:08:00	Unmuted
+1       	110     	MKRS12_NEUTRAL_LIGHT AND PULSING_207_DH_FULL.wav.wav.new.01_01-03.A1	   01:38:51:11	   01:39:28:00	   00:00:36:14	Unmuted
+1       	111     	22 - Admission (Alternative) - R Chorzelski - RSM440.wav.new.01_01-04.A1	   01:40:52:08	   01:40:54:07	   00:00:01:24	Unmuted
+1       	112     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_LITE.wav.wav.new.02-02.A1	   01:41:05:05	   01:41:19:07	   00:00:14:02	Unmuted
+1       	113     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_onlyBASS.wav.wav.new.01-05.A1	   01:41:21:01	   01:41:27:02	   00:00:06:01	Unmuted
+1       	114     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_onlyBASS.wav.wav.new.01-03.A1	   01:41:27:02	   01:41:27:18	   00:00:00:16	Unmuted
+1       	115     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-18.A1	   01:41:41:07	   01:42:07:06	   00:00:25:24	Unmuted
+1       	116     	XRC033_06 ALL IN A DAYS WORK.WAV.new.02_01-03.A1	   01:42:22:12	   01:42:27:07	   00:00:04:20	Unmuted
+1       	117     	MKRS12_COOKING_IN THE ZONE_202_DH_LITEmix.wav.wav.new.02-02.A1	   01:43:06:18	   01:43:37:14	   00:00:30:21	Unmuted
+1       	118     	59 - The Main Man - B Hayden, J Murray - MX456.wav.new.01_01-06.A1	   01:44:30:01	   01:44:46:01	   00:00:16:00	Unmuted
+1       	119     	MKRS12_TENSION_UNRAVELLING_v2_215_DH_FULL.wav.wav.new.01_01-03.A1	   01:45:13:19	   01:45:39:10	   00:00:25:16	Unmuted
+1       	120     	MKRS12_COOKING_MEDIUMHEAT_512_TR_FULL.wav.wav.new.01_01-03.A1	   01:45:48:17	   01:46:07:00	   00:00:18:08	Unmuted
+1       	121     	MKRS12_POS COOKING_PERFECT TIMING_604_CT_LITE.wav.wav.new.01-03.A1	   01:46:18:04	   01:46:27:23	   00:00:09:19	Unmuted
+1       	122     	MKRS12_POS COOKING_PERFECT TIMING_604_CT_LITE.wav.wav.new.02-02.A1	   01:46:28:09	   01:46:29:20	   00:00:01:11	Unmuted
+1       	123     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-12.A1	   01:47:56:11	   01:48:13:00	   00:00:16:14	Unmuted
+1       	124     	XRC078_06 THE SPECIFIC OCEAN.WAV.new.01-06.A1	   01:48:14:01	   01:48:18:14	   00:00:04:13	Unmuted
+1       	125     	XRC078_06 THE SPECIFIC OCEAN.WAV.new.01-04.A1	   01:48:18:14	   01:48:26:23	   00:00:08:09	Unmuted
+1       	126     	66 - Betrayal Of Confidence - B Hayden, J Murray - MX456 (1).wav.new.01_01-04.A1	   01:48:35:05	   01:48:59:20	   00:00:24:15	Unmuted
+1       	127     	TRL0184_09_2 ONE EYE OPEN_INSTRUMENTAL.WAV.new.02_01-07.A1	   01:49:50:07	   01:50:02:04	   00:00:11:22	Unmuted
+1       	128     	MKRS12_COOK_SASSYCHEFS_703v2_AS_FULL.wav.wav.new.01_01-03.A1	   01:50:41:22	   01:50:49:04	   00:00:07:07	Unmuted
+1       	129     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.01_03-03.A1	   01:51:10:21	   01:51:45:11	   00:00:34:15	Unmuted
+1       	130     	SEL6116_04 STEADILY GOING FORWARD (A).wav.new.01_01-03.A1	   01:51:45:22	   01:52:09:08	   00:00:23:11	Unmuted
+1       	131     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-12.A1	   01:52:33:09	   01:52:55:18	   00:00:22:09	Unmuted
+1       	132     	10 - Conserve - R Chorzelski - RSM440.wav.new.03_01-05.A1	   01:53:18:01	   01:54:02:20	   00:00:44:19	Unmuted
+1       	133     	01 - Building Tension - P Ruske - DBX003.wav.Copy.01.new.02_01-03.A1	   01:54:32:15	   01:54:34:04	   00:00:01:14	Unmuted
+1       	134     	21 - Dominion - M Noguer - BXMT023.wav.new.02_01-04.A1	   01:54:46:21	   01:55:05:17	   00:00:18:21	Unmuted
+1       	135     	05 - Game Show Showdown - A Deeping - CRB105.wav.new.01-03.A1	   01:55:25:08	   01:55:54:11	   00:00:29:03	Unmuted
+1       	136     	11 - Don't Get Caught - M Pes - ALSO058.wav.new.01-03.A1	   01:56:27:10	   01:56:51:20	   00:00:24:10	Unmuted
+1       	137     	10 - On The Brink - R Chorzelski - RSM533.mp3.new.01-03.A1	   01:57:38:20	   01:57:45:14	   00:00:06:19	Unmuted
+1       	138     	WESTONE_001_STITCH_IN_TIME_(A)_MATT_NORMAN_(PRS)_WOM659_West_One_Music_Limited.wav.new.01_01-03.A1	   01:58:07:06	   01:58:34:19	   00:00:27:13	Unmuted
+1       	139     	66 - Focus Under Pressure - M Beattie - PMOL234.mp3.new.01_01-05.A1	   01:58:37:23	   01:59:10:19	   00:00:32:21	Unmuted
+1       	140     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.01_01-03.A1	   01:59:10:19	   01:59:22:14	   00:00:11:20	Unmuted
+1       	141     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.03_01-03.A1	   01:59:32:21	   01:59:44:04	   00:00:11:08	Unmuted
+1       	142     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.04_01-03.A1	   01:59:44:04	   01:59:46:22	   00:00:02:18	Unmuted
+1       	143     	UPM_WAX23_135_Rising_Through_Stars_Instrumental_Barry_Laurel_Street_Gagel_1602830.wav.new.01_01-03.A1	   02:00:55:11	   02:01:09:14	   00:00:14:03	Unmuted
+1       	144     	01 - Blowing A Fuse - A Deeping - NLM226.mp3.Copy.01.new.01_01-05.A1	   02:01:27:12	   02:01:55:05	   00:00:27:18	Unmuted
+1       	145     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-18.A1	   02:02:47:20	   02:02:57:04	   00:00:09:09	Unmuted
+1       	146     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-20.A1	   02:03:34:14	   02:03:58:19	   00:00:24:05	Unmuted
+1       	147     	MKRS12_LIGHTTENSION_TASTETEST_507_TR_FULL.wav.wav.new.02_01-03.A1	   02:04:17:06	   02:04:22:02	   00:00:04:21	Unmuted
+1       	148     	06 - Cautiously Optimistic - T Hempton - ALSO047.wav.new.01_01-05.A1	   02:04:27:14	   02:04:48:14	   00:00:21:00	Unmuted
+1       	149     	MKRS12_POSITIVE_GOOD TIMES COMING_903_RL_FULLMIX.wav.wav.new.02_01-05.A1	   02:05:27:00	   02:05:39:02	   00:00:12:02	Unmuted
+1       	150     	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.Copy.01.new.01_01-03.A1	   02:05:43:15	   02:06:10:24	   00:00:27:09	Unmuted
+1       	151     	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_02-02.A1	   02:06:17:23	   02:06:25:06	   00:00:07:08	Unmuted
+1       	152     	MKR11__ENERGY_HUSTLEHARD_805_MS_FULL.wav.new.03-03.A1	   02:06:26:21	   02:06:58:09	   00:00:31:13	Unmuted
+1       	153     	MKRS12_POSITIVE_REFLECT_JOY_005_v4_AA_FULL.wav.wav.new.01_01-07.A1	   02:07:19:07	   02:07:36:03	   00:00:16:21	Unmuted
+1       	154     	06 - Escape Room Challenge - T Hewson - CRB105.wav.new.01_02-04.A1	   02:08:09:07	   02:08:34:10	   00:00:25:03	Unmuted
+1       	155     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-13.A1	   02:08:37:05	   02:08:39:05	   00:00:02:00	Unmuted
+1       	156     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-14.A1	   02:08:39:05	   02:08:50:04	   00:00:10:24	Unmuted
+1       	157     	WESTONE_023_FEELING_THE_HEAT_TODD_J._C_BAKER_(PRS)_TSH099_The_Scoring_House.wav.new.01_01-03.A1	   02:09:48:16	   02:10:42:10	   00:00:53:19	Unmuted
+1       	158     	09 - Glimmers Of Light - B Howells - NLM169.wav.new.01_01-03.A1	   02:10:44:18	   02:11:04:17	   00:00:19:24	Unmuted
+1       	159     	23 - Judgement Is Coming - A Degooi, J Bailey - DBX002.wav.new.02_01-03.A1	   02:11:38:12	   02:12:07:17	   00:00:29:05	Unmuted
+1       	160     	23 - Judgement Is Coming - A Degooi, J Bailey - DBX002.wav.new.03_01-03.A1	   02:12:07:17	   02:12:23:19	   00:00:16:02	Unmuted
+1       	161     	30 - Investigation B (Underscore) - A Fillip, M Prindy - SCDV856.wav.new.01_01-03.A1	   02:13:00:18	   02:13:41:19	   00:00:41:01	Unmuted
+1       	162     	07 - Holding Out Hope - P Faddoul - ALSO054.wav.new.01_01-04.A1	   02:14:02:23	   02:14:11:04	   00:00:08:06	Unmuted
+1       	163     	07 - Holding Out Hope - P Faddoul - ALSO054.wav.new.01_01-05.A1	   02:14:11:04	   02:14:14:04	   00:00:03:00	Unmuted
+1       	164     	MKR11_TASTING_POS_AMAZING_223_DH_FULL.wav.new.02-03.A1	   02:14:16:17	   02:14:30:14	   00:00:13:22	Unmuted
+1       	165     	01 - Building Tension - P Ruske - DBX003.wav.new.01_01-03.A1	   02:14:42:21	   02:15:14:03	   00:00:31:07	Unmuted
+1       	166     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_LITE.wav.wav.new.01-02.A1	   02:15:25:14	   02:15:37:14	   00:00:12:00	Unmuted
+1       	167     	17 - Black Hat - J Ioanna - BBX292.wav.new.01_01-05.A1	   02:15:46:08	   02:15:55:03	   00:00:08:20	Unmuted
+1       	168     	17 - Black Hat - J Ioanna - BBX292.wav.new.02_01-04.A1	   02:15:55:03	   02:16:04:14	   00:00:09:11	Unmuted
+1       	169     	MKRS12_NEUTRAL TO POS_THANKYOU_316_BR_FULL.wav.wav.new.01_01-09.A1	   02:16:22:08	   02:16:42:07	   00:00:19:24	Unmuted
+1       	170     	06 - Escape Room Challenge - T Hewson - CRB105.wav.new.02_02-03.A1	   02:16:57:19	   02:17:19:17	   00:00:21:23	Unmuted
+1       	171     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_LITE.wav.wav.new.01_01-05.A1	   02:17:24:17	   02:17:43:23	   00:00:19:06	Unmuted
+1       	172     	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_03-05.A1	   02:18:11:19	   02:18:16:04	   00:00:04:10	Unmuted
+1       	173     	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_03-06.A1	   02:18:16:04	   02:18:22:20	   00:00:06:16	Unmuted
+1       	174     	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_03-07.A1	   02:18:22:20	   02:18:31:00	   00:00:08:05	Unmuted
+1       	175     	SYN0351_08 GREEK POLKA.WAV.new.01_01-03.A1	   02:18:51:11	   02:18:57:21	   00:00:06:10	Unmuted
+1       	176     	SYN0351_08 GREEK POLKA.WAV.new.02_01-03.A1	   02:18:57:21	   02:19:01:15	   00:00:03:19	Unmuted
+1       	177     	SYN0351_08 GREEK POLKA.WAV.new.03_01-03.A1	   02:19:01:15	   02:19:04:19	   00:00:03:04	Unmuted
+1       	178     	42 - Succession - R Purcell - BXMT023.wav.new.01_01-03.A1	   02:19:17:09	   02:19:26:13	   00:00:09:04	Unmuted
+
+
+2       	1       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-09.A2	   01:00:19:02	   01:00:40:09	   00:00:21:07	Unmuted
+2       	2       	JVKE - Golden Hour (Instrumental - BVs).mp3.new.01_01-10.A2	   01:00:49:13	   01:00:52:20	   00:00:03:07	Unmuted
+2       	3       	UPM_WAX38_79_Show_You_What_I_Got_Instrumental_Brown_Gasparian_Olmos_1972671 (1).wav.new.01_01-04.A1	   01:00:54:18	   01:01:01:04	   00:00:06:11	Unmuted
+2       	4       	UPM_WAX38_6_Show_You_What_I_Got_Vocal_Lead_Brown_Gasparian_Olmos_1972666.wav.new.01_01-03.A1	   01:01:07:21	   01:01:12:10	   00:00:04:14	Unmuted
+2       	5       	WESTONE_077_LET'S_GET_TO_WORK_(B)_RYAN_T._SHORT_(BMI)_WOM565_West_One_Music_Limited.wav.new.01_01-03.A2	   01:01:16:10	   01:01:23:19	   00:00:07:09	Unmuted
+2       	6       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-09.A2	   01:01:25:04	   01:01:31:15	   00:00:06:11	Unmuted
+2       	7       	UPM_SVN87_4_Requiem_Dies_Irae_Remixed_Vocal_Lead_Burrows_Hill_Mallender_Verdi_2059436.wav.new.01_01-04.A1	   01:01:34:11	   01:01:36:19	   00:00:02:08	Unmuted
+2       	8       	CASEY BARNES - Summer Nights (INSTRUMENTAL).wav.new.01_01-04.A2	   01:01:54:22	   01:02:11:12	   00:00:16:15	Unmuted
+2       	9       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-10.A2	   01:02:20:00	   01:02:20:11	   00:00:00:11	Unmuted
+2       	10      	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-11.A2	   01:02:32:17	   01:02:35:05	   00:00:02:13	Unmuted
+2       	11      	10 - Ace - J Hammer - EOS015.wav.new.01_01-04.A2	   01:02:44:12	   01:02:44:19	   00:00:00:07	Unmuted
+2       	12      	10 - Ace - J Hammer - EOS015.wav.new.01_01-05.A2	   01:02:44:19	   01:03:01:22	   00:00:17:03	Unmuted
+2       	13      	Sheppard - Geronimo.wav.new.01_01-05.A2	   01:03:03:14	   01:03:44:03	   00:00:40:14	Unmuted
+2       	14      	Sheppard - Geronimo (Instrumental).wav.new.02_01-05.A2	   01:03:44:03	   01:03:54:06	   00:00:10:03	Unmuted
+2       	15      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.02_01-03.A2	   01:04:17:23	   01:04:18:05	   00:00:00:07	Unmuted
+2       	16      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.01_01-07.A2	   01:04:18:05	   01:04:25:19	   00:00:07:14	Unmuted
+2       	17      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.01_01-06.A2	   01:04:25:19	   01:04:26:17	   00:00:00:23	Unmuted
+2       	18      	11 - Can I Have Your Attention (Underscore) - D Birnie, C Harris, T Lewallen - ALL203.wav.new.03_01-03.A2	   01:04:26:17	   01:04:29:12	   00:00:02:20	Unmuted
+2       	19      	136 - France - Le Beaumarchais (Sting02) - J N Kensington - LVM014.wav.new.01_01-02.A2	   01:04:30:02	   01:04:34:00	   00:00:03:23	Unmuted
+2       	20      	XCD448_04 TAKIN HOLD.WAV.new.01_01-04.A2	   01:05:04:15	   01:05:07:12	   00:00:02:22	Unmuted
+2       	21      	XCD448_04_2 TAKIN HOLD_INSTRUMENTAL.WAV.new.03_01-04.A2	   01:05:07:12	   01:05:19:05	   00:00:11:18	Unmuted
+2       	22      	XCD448_04_2 TAKIN HOLD_INSTRUMENTAL.WAV.new.04_01-03.A2	   01:05:23:02	   01:05:25:06	   00:00:02:04	Unmuted
+2       	23      	MKR11_MARVELSTYLE_RISER_MS.wav.new.01_01-03.A2	   01:05:38:02	   01:05:39:19	   00:00:01:17	Unmuted
+2       	24      	31 - Counting Down - J Vincent - HML277.wav.new.02_01-03.A2	   01:06:10:04	   01:06:17:13	   00:00:07:09	Unmuted
+2       	25      	31 - Counting Down - J Vincent - HML277.wav.new.03_01-03.A2	   01:06:17:13	   01:06:18:17	   00:00:01:04	Unmuted
+2       	26      	XCD428_01 GET IT KICKIN.WAV.new.02_01-03.A2	   01:06:19:01	   01:06:26:16	   00:00:07:15	Unmuted
+2       	27      	XCD428_01 GET IT KICKIN.WAV.new.01_01-04.A2	   01:06:26:16	   01:06:28:03	   00:00:01:12	Unmuted
+2       	28      	XCD428_01 GET IT KICKIN.WAV.new.01_01-05.A2	   01:06:28:03	   01:06:41:17	   00:00:13:14	Unmuted
+2       	29      	XCD428_01_2 GET IT KICKIN_INSTRUMENTAL.WAV.new.02_01-03.A2	   01:06:41:17	   01:06:44:13	   00:00:02:21	Unmuted
+2       	30      	BAKER BOY Move.wav.new.01_01-03.A2	   01:07:02:18	   01:07:25:21	   00:00:23:03	Unmuted
+2       	31      	TRL0107_05 CALYPSO (A).wav.new.02_01-03.A2	   01:07:34:13	   01:07:34:24	   00:00:00:11	Unmuted
+2       	32      	01 - Lemme Show Ya - J Vincent - HML257.wav.new.02_01-03.A2	   01:07:47:05	   01:08:14:13	   00:00:27:08	Unmuted
+2       	33      	01 - Tour De Funk - S Ruchelman, S Grace - 1VU019.wav.new.03_01-03.A2	   01:08:31:22	   01:08:39:17	   00:00:07:20	Unmuted
+2       	34      	32 - A New Chapter - C Swift, L Davies - BKM013.wav.new.02_01-04.A2	   01:08:43:03	   01:09:05:12	   00:00:22:09	Unmuted
+2       	35      	MKR11_POS COOKING_TEAM WORK_617_CT_FULL.wav.new.03-02.A2	   01:09:07:09	   01:09:23:17	   00:00:16:08	Unmuted
+2       	36      	MKR11_COOK_A_BREEZE_811_MS_FULL.wav.new.04-02.A2	   01:10:07:23	   01:10:12:19	   00:00:04:21	Unmuted
+2       	37      	Niall Horan - Nice to Meet Ya.wav.new.03_01-08.A2	   01:10:27:09	   01:11:26:21	   00:00:59:12	Unmuted
+2       	38      	Adam Lambert, Make Me Feel (Mighty Real).wav.Copy.01.new.01_01-05.A2	   01:11:28:15	   01:11:54:01	   00:00:25:11	Unmuted
+2       	39      	Adam Lambert, Make Me Feel (Mighty Real).wav.Copy.01.new.01_01-07.A2	   01:11:54:01	   01:11:57:15	   00:00:03:14	Unmuted
+2       	40      	32 - Jump Start - T Clarke, A Shaw - BBX296.wav.new.01_01-06.A2	   01:12:01:08	   01:12:43:04	   00:00:41:21	Unmuted
+2       	41      	02 - Ascending Waves - T Hewson - CRB081.wav.new.01-04.A2	   01:13:33:17	   01:13:58:16	   00:00:24:24	Unmuted
+2       	42      	02 - Ascending Waves - T Hewson - CRB081.wav.new.02-02.A2	   01:14:21:20	   01:14:26:21	   00:00:05:01	Unmuted
+2       	43      	64 - Clear Waters - J Hood - HML312.wav.new.02_01-03.A2	   01:14:49:08	   01:15:00:03	   00:00:10:20	Unmuted
+2       	44      	64 - Clear Waters - J Hood - HML312.wav.new.03_01-04.A2	   01:15:02:22	   01:15:03:23	   00:00:01:01	Unmuted
+2       	45      	Freya Ridings - 01 - Castles [200039433].wav.new.01_01-05.A2	   01:15:03:23	   01:15:12:05	   00:00:08:07	Unmuted
+2       	46      	Freya Ridings - 01 - Castles [200039433].wav.new.02_01-05.A2	   01:15:12:05	   01:15:20:14	   00:00:08:09	Unmuted
+2       	47      	09 - Easy Experiments - T Hewson - CRB093.wav.new.01_01-03.A2	   01:15:41:09	   01:15:56:16	   00:00:15:07	Unmuted
+2       	48      	10 - Changing Route - M Kouppa - MSU009.wav.new.02_01-03.A2	   01:16:07:13	   01:16:10:01	   00:00:02:13	Unmuted
+2       	49      	Katy Perry - Teenage Dream.wav.new.02_01-03.A2	   01:16:28:09	   01:16:42:09	   00:00:14:00	Unmuted
+2       	50      	01 - Feel Good - M Lena, F Prest - BAM-AS033.wav.new.02_01-03.A2	   01:16:43:17	   01:16:49:23	   00:00:06:06	Unmuted
+2       	51      	03 - Feel Good (Underscore) - M Lena, F Prest - BAM-AS033.wav.new.01_01-03.A2	   01:16:49:23	   01:16:58:10	   00:00:08:12	Unmuted
+2       	52      	02 - Feel Good (Instrumental) - M Lena, F Prest - BAM-AS033.wav.new.01_01-04.A2	   01:16:58:10	   01:17:08:03	   00:00:09:18	Unmuted
+2       	53      	02 - Feel Good (Instrumental) - M Lena, F Prest - BAM-AS033.wav.new.01_01-05.A2	   01:17:08:03	   01:17:08:07	   00:00:00:04	Unmuted
+2       	54      	03 - Feel Good (Underscore) - M Lena, F Prest - BAM-AS033.wav.new.02_01-03.A2	   01:17:08:07	   01:17:10:11	   00:00:02:04	Unmuted
+2       	55      	07 - Mass Production - J Goldbridge - MNM087.wav.new.01_01-06.A2	   01:17:45:09	   01:17:47:03	   00:00:01:19	Unmuted
+2       	56      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.02_01-03.A2	   01:17:52:02	   01:18:02:03	   00:00:10:01	Unmuted
+2       	57      	01 - Ultimate Rival - P Nickalls - CRB112.wav.new.02_01-06.A2	   01:18:35:00	   01:18:43:18	   00:00:08:18	Unmuted
+2       	58      	19 - Both Sides Scheme - S Azbel - BXMT029.wav.new.01_01-04.A2	   01:18:53:01	   01:19:13:02	   00:00:20:01	Unmuted
+2       	59      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.02_02-03.A2	   01:19:29:24	   01:19:32:01	   00:00:02:02	Unmuted
+2       	60      	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.new.01_01-05.A2	   01:19:34:15	   01:19:47:04	   00:00:12:14	Unmuted
+2       	61      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.01_01-03.A2	   01:20:24:24	   01:20:33:05	   00:00:08:06	Unmuted
+2       	62      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.03_01-04.A2	   01:20:33:05	   01:20:35:17	   00:00:02:12	Unmuted
+2       	63      	104 - Center Of The Show (Inst) - M Pahler - TRC075.wav.new.03_01-05.A2	   01:20:42:13	   01:20:44:04	   00:00:01:16	Unmuted
+2       	64      	KPM2151_15 DECISION POINT (A).WAV.new.01_01-03.A2	   01:20:48:02	   01:21:04:18	   00:00:16:16	Unmuted
+2       	65      	Kylie Minogue - Padam Padam - Extended Mix.wav.new.02_01-03.A2	   01:21:30:19	   01:21:44:14	   00:00:13:20	Unmuted
+2       	66      	Kylie Minogue - Padam Padam - Extended Mix.wav.new.04_01-03.A2	   01:21:44:14	   01:21:50:11	   00:00:05:22	Unmuted
+2       	67      	22 - Quid Pro Quo - B Hayden, J Murray - MX456.wav.new.01_01-05.A2	   01:22:24:09	   01:22:46:10	   00:00:22:01	Unmuted
+2       	68      	05 - Choose Carefully - G Thomas - ALSO047.wav.new.01_01-03.A2	   01:22:50:20	   01:23:10:23	   00:00:20:03	Unmuted
+2       	69      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-11.A2	   01:24:05:19	   01:24:19:12	   00:00:13:18	Unmuted
+2       	70      	83 - Blame On You - C Swift - BKM015.wav.new.01_01-15.A2	   01:24:35:08	   01:24:48:13	   00:00:13:05	Unmuted
+2       	71      	83 - Blame On You - C Swift - BKM015.wav.new.02_01-03.A2	   01:25:08:06	   01:25:12:08	   00:00:04:02	Unmuted
+2       	72      	28 - City Light Stomp (No Vox) - B Moon - FFM029.wav.new.01_01-07.A2	   01:25:23:14	   01:25:25:06	   00:00:01:17	Unmuted
+2       	73      	16 - Gusesha - K Diaz - THH123.wav.new.01_01-03.A2	   01:25:27:23	   01:25:33:21	   00:00:05:23	Unmuted
+2       	74      	33 - Into The Gates Of Hell - A Hromcovs - NMM095.wav.new.01_01-03.A2	   01:25:46:05	   01:26:03:18	   00:00:17:13	Unmuted
+2       	75      	CASEY BARNES - We're Good Together.wav.Copy.01.new.04_01-03.A2	   01:26:29:11	   01:26:32:15	   00:00:03:04	Unmuted
+2       	76      	4EM021_trk005_REVERSE_END_HIT_r_reale.mp3.new.04.Copy.01.new.02.Copy.01.new.01.Copy.01.new.01_01-03.A2	   01:27:52:24	   01:27:54:16	   00:00:01:17	Unmuted
+2       	77      	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_FULL.wav.wav.new.03-02.A2	   01:28:37:16	   01:29:02:13	   00:00:24:22	Unmuted
+2       	78      	1563 - Barrel Roll - P Dinletir - AUMT013.wav.new.01.Copy.01.new.02_01-03.A2	   01:29:16:01	   01:29:22:13	   00:00:06:12	Unmuted
+2       	79      	04 - Colour Spectrum - C White - NLM213.wav.new.02_01-04.A2	   01:29:37:09	   01:29:46:21	   00:00:09:12	Unmuted
+2       	80      	81 - Split Second - T Gire - BXM639.wav.new.05_01-03.A2	   01:29:55:22	   01:30:04:03	   00:00:08:06	Unmuted
+2       	81      	MKRS12_NEUTRAL COOK_CREATING_317_BR_FULL.wav.wav.new.01_01-04.A2	   01:30:18:06	   01:30:25:09	   00:00:07:03	Unmuted
+2       	82      	MKRS12_NEUTRAL COOK_CREATING_317_BR_LITE.wav.wav.new.02_01-03.A2	   01:30:33:13	   01:30:46:03	   00:00:12:15	Unmuted
+2       	83      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_01-07.A2	   01:31:03:14	   01:31:24:07	   00:00:20:18	Unmuted
+2       	84      	07 - Excited Nervousness - S Patterson - ALL125.wav.new.03_01-03.A2	   01:31:24:07	   01:31:28:13	   00:00:04:06	Unmuted
+2       	85      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.01_01-04.A2	   01:31:30:17	   01:31:46:01	   00:00:15:09	Unmuted
+2       	86      	12 - Anxious Antagonist - J Van Diepen - BKM015.wav.new.01_01-05.A2	   01:31:46:21	   01:31:56:03	   00:00:09:07	Unmuted
+2       	87      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.01_01-06.A2	   01:31:58:08	   01:32:08:07	   00:00:09:24	Unmuted
+2       	88      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.02_01-05.A2	   01:32:21:09	   01:32:23:09	   00:00:02:00	Unmuted
+2       	89      	54 - Building Intensity D (Alt) - L Miller - CRB060.wav.new.02_01-06.A2	   01:32:23:14	   01:32:31:19	   00:00:08:05	Unmuted
+2       	90      	53 - Distorted Truth (Underscore, No Piano Melody) - S Patterson - ALSO008.wav.new.01_01-03.A2	   01:32:38:05	   01:32:49:08	   00:00:11:03	Unmuted
+2       	91      	56 - Distorted Truth (Drums, Perc, Bass Mix Only) - S Patterson - ALSO008.wav.new.01_01-03.A2	   01:32:52:16	   01:32:54:21	   00:00:02:04	Unmuted
+2       	92      	15 - Hard Pulse (No Breaks) - J Colvin, F Tidnam - OUT034.wav.new.01_01-06.A2	   01:33:12:05	   01:33:13:16	   00:00:01:11	Unmuted
+2       	93      	15 - Hard Pulse (No Breaks) - J Colvin, F Tidnam - OUT034.wav.new.01_01-07.A2	   01:33:13:16	   01:33:25:22	   00:00:12:06	Unmuted
+2       	94      	15 - Hard Pulse (No Breaks) - J Colvin, F Tidnam - OUT034.wav.new.01_01-09.A2	   01:33:25:22	   01:33:35:01	   00:00:09:04	Unmuted
+2       	95      	22 - Delicate Feelings (Pizzicato) - S Poge, C Lehn - ART039.wav.new.01_01-04.A2	   01:34:03:13	   01:34:18:00	   00:00:14:12	Unmuted
+2       	96      	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.03_01-07.A2	   01:34:22:03	   01:34:26:16	   00:00:04:13	Unmuted
+2       	97      	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.03_01-08.A2	   01:34:26:16	   01:34:33:08	   00:00:06:17	Unmuted
+2       	98      	91 - Fury & Tempest - J Van Diepen - BKM012.wav.new.01_01-03.A2	   01:34:35:05	   01:34:39:11	   00:00:04:06	Unmuted
+2       	99      	02 - Building Tension (Underscore) - P Ruske - DBX003.wav.new.04_01-04.A2	   01:34:44:03	   01:34:58:18	   00:00:14:14	Unmuted
+2       	100     	34 - Beds Of Tension B (Underscore) - O Spink, C White - CRB067.wav.new.01_01-03.A2	   01:35:06:03	   01:35:14:24	   00:00:08:21	Unmuted
+2       	101     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-18.A2	   01:35:22:12	   01:35:44:23	   00:00:22:11	Unmuted
+2       	102     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-21.A2	   01:35:54:13	   01:36:01:14	   00:00:07:01	Unmuted
+2       	103     	10 - Conserve - R Chorzelski - RSM440.wav.new.03_01-07.A2	   01:36:06:21	   01:36:20:09	   00:00:13:13	Unmuted
+2       	104     	17 - Holding Out - D Norlo, M Wells - DBX002.wav.Copy.01.new.02_01-05.A2	   01:37:03:03	   01:37:07:00	   00:00:03:22	Unmuted
+2       	105     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.02_01-09.A2	   01:37:13:13	   01:37:24:19	   00:00:11:06	Unmuted
+2       	106     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.01_01-03.A2	   01:37:49:01	   01:37:55:10	   00:00:06:09	Unmuted
+2       	107     	06 - Chewing Pens - R Chorzelski - RSM440.wav.new.02_01-05.A2	   01:38:06:20	   01:38:11:18	   00:00:04:23	Unmuted
+2       	108     	BF_403_TK001_TOUGH_COMPETITION_James_Brown_Beats_Fresh_Music.mp3.new.01_01-03.A2	   01:38:16:17	   01:38:25:00	   00:00:08:08	Unmuted
+2       	109     	BF_403_TK001_TOUGH_COMPETITION_James_Brown_Beats_Fresh_Music.mp3.new.02_01-03.A2	   01:38:41:17	   01:38:49:17	   00:00:08:00	Unmuted
+2       	110     	MKRS12_NEUTRAL_LIGHT AND PULSING_207_DH_FULL.wav.wav.new.01_01-03.A2	   01:38:51:11	   01:39:28:00	   00:00:36:14	Unmuted
+2       	111     	22 - Admission (Alternative) - R Chorzelski - RSM440.wav.new.01_01-05.A2	   01:40:52:08	   01:40:54:07	   00:00:01:24	Unmuted
+2       	112     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_LITE.wav.wav.new.02-02.A2	   01:41:05:05	   01:41:19:07	   00:00:14:02	Unmuted
+2       	113     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_onlyBASS.wav.wav.new.01-05.A2	   01:41:21:01	   01:41:27:02	   00:00:06:01	Unmuted
+2       	114     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_onlyBASS.wav.wav.new.01-06.A2	   01:41:27:02	   01:41:27:18	   00:00:00:16	Unmuted
+2       	115     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-17.A2	   01:41:41:07	   01:42:07:06	   00:00:25:24	Unmuted
+2       	116     	XRC033_06 ALL IN A DAYS WORK.WAV.new.02_01-03.A2	   01:42:22:12	   01:42:27:07	   00:00:04:20	Unmuted
+2       	117     	MKRS12_COOKING_IN THE ZONE_202_DH_LITEmix.wav.wav.new.02-02.A2	   01:43:06:18	   01:43:37:14	   00:00:30:21	Unmuted
+2       	118     	59 - The Main Man - B Hayden, J Murray - MX456.wav.new.01_01-07.A2	   01:44:30:01	   01:44:46:01	   00:00:16:00	Unmuted
+2       	119     	MKRS12_TENSION_UNRAVELLING_v2_215_DH_FULL.wav.wav.new.01_01-03.A2	   01:45:13:19	   01:45:39:10	   00:00:25:16	Unmuted
+2       	120     	MKRS12_COOKING_MEDIUMHEAT_512_TR_FULL.wav.wav.new.01_01-03.A2	   01:45:48:17	   01:46:07:00	   00:00:18:08	Unmuted
+2       	121     	MKRS12_POS COOKING_PERFECT TIMING_604_CT_LITE.wav.wav.new.01-03.A2	   01:46:18:04	   01:46:27:23	   00:00:09:19	Unmuted
+2       	122     	MKRS12_POS COOKING_PERFECT TIMING_604_CT_LITE.wav.wav.new.02-02.A2	   01:46:28:09	   01:46:29:20	   00:00:01:11	Unmuted
+2       	123     	MKRS12_TENSION_SOMETHINGS WRONG_214_DH_FULL.wav.wav.new.01_01-18.A2	   01:47:56:11	   01:48:13:00	   00:00:16:14	Unmuted
+2       	124     	XRC078_06 THE SPECIFIC OCEAN.WAV.new.01-05.A2	   01:48:14:01	   01:48:18:14	   00:00:04:13	Unmuted
+2       	125     	XRC078_06 THE SPECIFIC OCEAN.WAV.new.01-06.A2	   01:48:18:14	   01:48:26:23	   00:00:08:09	Unmuted
+2       	126     	66 - Betrayal Of Confidence - B Hayden, J Murray - MX456 (1).wav.new.01_01-04.A2	   01:48:35:05	   01:48:59:20	   00:00:24:15	Unmuted
+2       	127     	TRL0184_09_2 ONE EYE OPEN_INSTRUMENTAL.WAV.new.02_01-06.A2	   01:49:50:07	   01:50:02:04	   00:00:11:22	Unmuted
+2       	128     	MKRS12_COOK_SASSYCHEFS_703v2_AS_FULL.wav.wav.new.01_01-03.A2	   01:50:41:22	   01:50:49:04	   00:00:07:07	Unmuted
+2       	129     	22 - Pressure Builds - M Beattie - PMOL234.wav.new.01_03-03.A2	   01:51:10:21	   01:51:45:11	   00:00:34:15	Unmuted
+2       	130     	SEL6116_04 STEADILY GOING FORWARD (A).wav.new.01_01-03.A2	   01:51:45:22	   01:52:09:08	   00:00:23:11	Unmuted
+2       	131     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-17.A2	   01:52:33:09	   01:52:55:18	   00:00:22:09	Unmuted
+2       	132     	10 - Conserve - R Chorzelski - RSM440.wav.new.03_01-06.A2	   01:53:18:01	   01:54:02:20	   00:00:44:19	Unmuted
+2       	133     	01 - Building Tension - P Ruske - DBX003.wav.Copy.01.new.02_01-03.A2	   01:54:32:15	   01:54:34:04	   00:00:01:14	Unmuted
+2       	134     	21 - Dominion - M Noguer - BXMT023.wav.new.02_01-05.A2	   01:54:46:21	   01:55:05:17	   00:00:18:21	Unmuted
+2       	135     	05 - Game Show Showdown - A Deeping - CRB105.wav.new.01-04.A2	   01:55:25:08	   01:55:54:11	   00:00:29:03	Unmuted
+2       	136     	11 - Don't Get Caught - M Pes - ALSO058.wav.new.01-04.A2	   01:56:27:10	   01:56:51:20	   00:00:24:10	Unmuted
+2       	137     	10 - On The Brink - R Chorzelski - RSM533.mp3.new.01-04.A2	   01:57:38:20	   01:57:45:14	   00:00:06:19	Unmuted
+2       	138     	WESTONE_001_STITCH_IN_TIME_(A)_MATT_NORMAN_(PRS)_WOM659_West_One_Music_Limited.wav.new.01_01-03.A2	   01:58:07:06	   01:58:34:19	   00:00:27:13	Unmuted
+2       	139     	66 - Focus Under Pressure - M Beattie - PMOL234.mp3.new.01_01-04.A2	   01:58:37:23	   01:59:10:19	   00:00:32:21	Unmuted
+2       	140     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.01_01-03.A2	   01:59:10:19	   01:59:22:14	   00:00:11:20	Unmuted
+2       	141     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.03_01-03.A2	   01:59:32:21	   01:59:44:04	   00:00:11:08	Unmuted
+2       	142     	06 - Uneasy Affairs - G Young, C White - CRB060.wav.new.04_01-03.A2	   01:59:44:04	   01:59:46:22	   00:00:02:18	Unmuted
+2       	143     	UPM_WAX23_135_Rising_Through_Stars_Instrumental_Barry_Laurel_Street_Gagel_1602830.wav.new.01_01-03.A2	   02:00:55:11	   02:01:09:14	   00:00:14:03	Unmuted
+2       	144     	01 - Blowing A Fuse - A Deeping - NLM226.mp3.Copy.01.new.01_01-05.A2	   02:01:27:12	   02:01:55:05	   00:00:27:18	Unmuted
+2       	145     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-14.A2	   02:02:47:20	   02:02:57:04	   00:00:09:09	Unmuted
+2       	146     	MKRS12_COOK_SPICE GRINDER_1106v2_RC_FULL.wav.wav.new.01_01-13.A2	   02:03:34:14	   02:03:58:19	   00:00:24:05	Unmuted
+2       	147     	MKRS12_LIGHTTENSION_TASTETEST_507_TR_FULL.wav.wav.new.02_01-03.A2	   02:04:17:06	   02:04:22:02	   00:00:04:21	Unmuted
+2       	148     	06 - Cautiously Optimistic - T Hempton - ALSO047.wav.new.01_01-06.A2	   02:04:27:14	   02:04:48:14	   00:00:21:00	Unmuted
+2       	149     	MKRS12_POSITIVE_GOOD TIMES COMING_903_RL_FULLMIX.wav.wav.new.02_01-05.A2	   02:05:27:00	   02:05:39:02	   00:00:12:02	Unmuted
+2       	150     	03 - Only This And Only Now (Instrumental) - S Burger, W Hunt - THH111.wav.Copy.01.new.01_01-03.A2	   02:05:43:15	   02:06:10:24	   00:00:27:09	Unmuted
+2       	151     	07 - Excited Nervousness - S Patterson - ALL125.wav.new.01_02-02.A2	   02:06:17:23	   02:06:25:06	   00:00:07:08	Unmuted
+2       	152     	MKR11__ENERGY_HUSTLEHARD_805_MS_FULL.wav.new.03-03.A2	   02:06:26:21	   02:06:58:09	   00:00:31:13	Unmuted
+2       	153     	MKRS12_POSITIVE_REFLECT_JOY_005_v4_AA_FULL.wav.wav.new.01_01-07.A2	   02:07:19:07	   02:07:36:03	   00:00:16:21	Unmuted
+2       	154     	06 - Escape Room Challenge - T Hewson - CRB105.wav.new.01_02-03.A2	   02:08:09:07	   02:08:34:10	   00:00:25:03	Unmuted
+2       	155     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-11.A2	   02:08:37:05	   02:08:39:05	   00:00:02:00	Unmuted
+2       	156     	WESTONE_017_TICKING_TENSION_(A)_TOM_HOWE_(PRS)_WOMG043_West_One_Music_Limited.wav.new.01_01-12.A2	   02:08:39:05	   02:08:50:04	   00:00:10:24	Unmuted
+2       	157     	WESTONE_023_FEELING_THE_HEAT_TODD_J._C_BAKER_(PRS)_TSH099_The_Scoring_House.wav.new.01_01-03.A2	   02:09:48:16	   02:10:42:10	   00:00:53:19	Unmuted
+2       	158     	09 - Glimmers Of Light - B Howells - NLM169.wav.new.01_01-03.A2	   02:10:44:18	   02:11:04:17	   00:00:19:24	Unmuted
+2       	159     	23 - Judgement Is Coming - A Degooi, J Bailey - DBX002.wav.new.02_01-03.A2	   02:11:38:12	   02:12:07:17	   00:00:29:05	Unmuted
+2       	160     	23 - Judgement Is Coming - A Degooi, J Bailey - DBX002.wav.new.03_01-03.A2	   02:12:07:17	   02:12:23:19	   00:00:16:02	Unmuted
+2       	161     	30 - Investigation B (Underscore) - A Fillip, M Prindy - SCDV856.wav.new.01_01-03.A2	   02:13:00:18	   02:13:41:19	   00:00:41:01	Unmuted
+2       	162     	07 - Holding Out Hope - P Faddoul - ALSO054.wav.new.01_01-04.A2	   02:14:02:23	   02:14:11:04	   00:00:08:06	Unmuted
+2       	163     	07 - Holding Out Hope - P Faddoul - ALSO054.wav.new.01_01-05.A2	   02:14:11:04	   02:14:14:04	   00:00:03:00	Unmuted
+2       	164     	MKR11_TASTING_POS_AMAZING_223_DH_FULL.wav.new.02-04.A2	   02:14:16:17	   02:14:30:14	   00:00:13:22	Unmuted
+2       	165     	01 - Building Tension - P Ruske - DBX003.wav.new.01_01-03.A2	   02:14:42:21	   02:15:14:03	   00:00:31:07	Unmuted
+2       	166     	MKRS12_NEUTRAL TO POSITIVE_ON POINT_1111_RC_LITE.wav.wav.new.01-02.A2	   02:15:25:14	   02:15:37:14	   00:00:12:00	Unmuted
+2       	167     	17 - Black Hat - J Ioanna - BBX292.wav.new.01_01-04.A2	   02:15:46:08	   02:15:55:03	   00:00:08:20	Unmuted
+2       	168     	17 - Black Hat - J Ioanna - BBX292.wav.new.02_01-05.A2	   02:15:55:03	   02:16:04:14	   00:00:09:11	Unmuted
+2       	169     	MKRS12_NEUTRAL TO POS_THANKYOU_316_BR_FULL.wav.wav.new.01_01-06.A2	   02:16:22:08	   02:16:42:07	   00:00:19:24	Unmuted
+2       	170     	06 - Escape Room Challenge - T Hewson - CRB105.wav.new.02_02-03.A2	   02:16:57:19	   02:17:19:17	   00:00:21:23	Unmuted
+2       	171     	MKRS12_POSITIVE RESULT_WELL DONE_v2_305_BR_LITE.wav.wav.new.01_01-04.A2	   02:17:24:17	   02:17:43:23	   00:00:19:06	Unmuted
+2       	172     	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_03-05.A2	   02:18:11:19	   02:18:16:04	   00:00:04:10	Unmuted
+2       	173     	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_03-06.A2	   02:18:16:04	   02:18:22:20	   00:00:06:16	Unmuted
+2       	174     	08 - Neutral Tension Bed - T Hewson - CRB105.wav.new.01_03-07.A2	   02:18:22:20	   02:18:31:00	   00:00:08:05	Unmuted
+2       	175     	SYN0351_08 GREEK POLKA.WAV.new.01_01-03.A2	   02:18:51:11	   02:18:57:21	   00:00:06:10	Unmuted
+2       	176     	SYN0351_08 GREEK POLKA.WAV.new.02_01-03.A2	   02:18:57:21	   02:19:01:15	   00:00:03:19	Unmuted
+2       	177     	SYN0351_08 GREEK POLKA.WAV.new.03_01-03.A2	   02:19:01:15	   02:19:04:19	   00:00:03:04	Unmuted
+2       	178     	42 - Succession - R Purcell - BXMT023.wav.new.01_01-03.A2	   02:19:17:09	   02:19:26:13	   00:00:09:04	Unmuted
+
+
+TRACK NAME:	MUSIC 3 (Stereo)
+COMMENTS:	
+USER DELAY:	0 Samples
+STATE: 
+CHANNEL 	EVENT   	CLIP NAME                     	START TIME    	END TIME      	DURATION      	STATE
+1       	1       	BYND062_trk40_RADIO_FEEDBACK_ROAR_Walter_Werzowa.mp3.new.01_01-03.A1	   01:01:01:18	   01:01:07:19	   00:00:06:01	Unmuted
+1       	2       	XXL026_30 SQUAD UP WHOOSH.WAV.new.01_01-04.A1	   01:01:30:04	   01:01:31:17	   00:00:01:13	Unmuted
+1       	3       	CASEY BARNES - Summer Nights (INSTRUMENTAL).wav.new.02_01-03.A1	   01:01:54:06	   01:01:55:01	   00:00:00:20	Unmuted
+1       	4       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-10.A1	   01:02:11:03	   01:02:11:15	   00:00:00:12	Unmuted
+1       	5       	SA012_trk17_ANOMALY_-_ANOMALY_04_Diego_Stocco_(SIAE)_100.wav.new.01_01-04.A1	   01:02:21:11	   01:02:31:15	   00:00:10:04	Unmuted
+1       	6       	Freya Ridings - 01 - Castles [200039433].wav.new.02_01-04.A1	   01:15:20:10	   01:15:20:20	   00:00:00:10	Muted
+1       	7       	MKR11_ENTRANCE_KNIFE FIGHT_201v2_DH_onlySFX.wav.new.02_01-03.A1	   01:34:18:08	   01:34:20:03	   00:00:01:20	Unmuted
+1       	8       	156 - Simple String (B) - J Sponsler Jr, T Gire - BXM011.wav.new.01_01-03.A1	   01:48:23:01	   01:48:35:10	   00:00:12:09	Unmuted
+1       	9       	98 - Etoll Drum Roll 6 01 (2 sec) - R Etoll - QF030.wav.new.01_01-06.A1	   01:50:01:01	   01:50:05:11	   00:00:04:10	Unmuted
+1       	10      	MKRS12_COOK_SASSYCHEFS_703v2_AS_FULL.wav.wav.new.02_01-07.A1	   01:50:48:11	   01:50:56:22	   00:00:08:11	Unmuted
+1       	11      	01 - Blowing A Fuse - A Deeping - NLM226.mp3.Copy.01.new.02_01-03.A1	   02:01:53:22	   02:02:02:22	   00:00:09:00	Unmuted
+
+
+2       	1       	BYND062_trk40_RADIO_FEEDBACK_ROAR_Walter_Werzowa.mp3.new.01_01-03.A2	   01:01:01:18	   01:01:07:19	   00:00:06:01	Unmuted
+2       	2       	XXL026_30 SQUAD UP WHOOSH.WAV.new.01_01-04.A2	   01:01:30:04	   01:01:31:17	   00:00:01:13	Unmuted
+2       	3       	CASEY BARNES - Summer Nights (INSTRUMENTAL).wav.new.02_01-03.A2	   01:01:54:06	   01:01:55:01	   00:00:00:20	Unmuted
+2       	4       	UPM_EVO295_5_Reload_Backing_Vocals_Only_Collisson_Westlake_1085736.wav.new.01_01-08.A2	   01:02:11:03	   01:02:11:15	   00:00:00:12	Unmuted
+2       	5       	SA012_trk17_ANOMALY_-_ANOMALY_04_Diego_Stocco_(SIAE)_100.wav.new.01_01-04.A2	   01:02:21:11	   01:02:31:15	   00:00:10:04	Unmuted
+2       	6       	Freya Ridings - 01 - Castles [200039433].wav.new.02_01-04.A2	   01:15:20:10	   01:15:20:20	   00:00:00:10	Muted
+2       	7       	MKR11_ENTRANCE_KNIFE FIGHT_201v2_DH_onlySFX.wav.new.02_01-03.A2	   01:34:18:08	   01:34:20:03	   00:00:01:20	Unmuted
+2       	8       	156 - Simple String (B) - J Sponsler Jr, T Gire - BXM011.wav.new.01_01-03.A2	   01:48:23:01	   01:48:35:10	   00:00:12:09	Unmuted
+2       	9       	98 - Etoll Drum Roll 6 01 (2 sec) - R Etoll - QF030.wav.new.01_01-06.A2	   01:50:01:01	   01:50:05:11	   00:00:04:10	Unmuted
+2       	10      	MKRS12_COOK_SASSYCHEFS_703v2_AS_FULL.wav.wav.new.02_01-06.A2	   01:50:48:11	   01:50:56:22	   00:00:08:11	Unmuted
+2       	11      	01 - Blowing A Fuse - A Deeping - NLM226.mp3.Copy.01.new.02_01-03.A2	   02:01:53:22	   02:02:02:22	   00:00:09:00	Unmuted
+
+
